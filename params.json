@@ -18,51 +18,59 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "",
-      "brAfter": "",
+      "brBefore": "MLP-verse--I---12-12",
+      "brAfter": "MLP-verse--I---12-12",
       "blockquote": "",
       "figure": "",
-      "em": "",
-      "strong": "",
+      "em": "MLP-titulka-prekladatel\nchar-style-override-2\nMLP-znak-kurziva-11b",
+      "strong": "MLP-tiraz-autor-a-nazev",
       "remove": "",
-      "ignore": ""
+      "ignore": "Hyperlink \nMLP-citacni-str-rozdeleni\nMLP-licence.+\nMLP-tex.+\nMLP-titulka.+\nMLP-pozn-pod-carou\nNormal\nfootnot.+\npara-style-override-1\npara-style-override-2\nframe-.\nMLP-obrazky\nchar-style-override-4\nchar-style-override-5"
     },
     "structure": [
       {
         "filename": "zabijak_001.md",
         "xhtml": "zabijak_001.xhtml",
         "id": 0,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "zabijak_002.md",
         "xhtml": "zabijak_002.xhtml",
         "id": 1,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "zabijak_003.md",
         "xhtml": "zabijak_003.xhtml",
         "id": 2,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "zabijak_004.md",
         "xhtml": "zabijak_004.xhtml",
         "id": 3,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "zabijak_005.md",
@@ -71,7 +79,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "1",
+        "subtitle": ""
       },
       {
         "filename": "zabijak_006.md",
@@ -80,7 +90,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "2",
+        "subtitle": ""
       },
       {
         "filename": "zabijak_007.md",
@@ -89,7 +101,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "3",
+        "subtitle": ""
       },
       {
         "filename": "zabijak_008.md",
@@ -98,7 +112,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "4",
+        "subtitle": ""
       },
       {
         "filename": "zabijak_009.md",
@@ -107,7 +123,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "5",
+        "subtitle": ""
       },
       {
         "filename": "zabijak_010.md",
@@ -116,7 +134,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "6",
+        "subtitle": ""
       },
       {
         "filename": "zabijak_011.md",
@@ -125,7 +145,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "7",
+        "subtitle": ""
       },
       {
         "filename": "zabijak_012.md",
@@ -134,7 +156,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "8",
+        "subtitle": ""
       },
       {
         "filename": "zabijak_013.md",
@@ -143,7 +167,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "9",
+        "subtitle": ""
       },
       {
         "filename": "zabijak_014.md",
@@ -152,7 +178,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "10",
+        "subtitle": ""
       },
       {
         "filename": "zabijak_015.md",
@@ -161,7 +189,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "11",
+        "subtitle": ""
       },
       {
         "filename": "zabijak_016.md",
@@ -170,7 +200,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "12",
+        "subtitle": ""
       },
       {
         "filename": "zabijak_017.md",
@@ -179,16 +211,20 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "13",
+        "subtitle": ""
       },
       {
         "filename": "zabijak_018.md",
         "xhtml": "zabijak_018.xhtml",
         "id": 17,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "",
+        "subtitle": ""
       }
     ]
   },
@@ -198,7 +234,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Émile Zola",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-05T09:24:06.838Z"
+      "modified": "2021-08-05T11:37:02.912Z"
     },
     "chapters": [
       {
@@ -377,6 +413,6 @@
       "user": "books-are-next",
       "repo": "zabijak"
     },
-    "generatedAt": 1628155447749
+    "generatedAt": 1628163423879
   }
 }

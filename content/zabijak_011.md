@@ -102,7 +102,7 @@ Hosté přešlapovali kolem stolu. Všichni už měli hlad, občas nenápadně z
 
 Bylo půl sedmé. Všechno se už začínalo připalovat a nakonec bude i husa příliš vysušená. Gervaisa, celá nešťastná, navrhla, aby někoho poslali podívat se po okolních vinárnách, jestli tam snad Coupeau někde není. Když se nabídl Goujet, řekla, že půjde s ním; a Virgínie, která už začínala mít strach, co je s manželem, se k nim přidala také. Všichni tři, bez klobouku, zabírali celý chodník. Kovář, který si na sobě nechal redingot, nabídl levé rámě Gervaise a pravé Virgínii. Prohlásil, že si připadá jako košík se dvěma uchy, a to jim oběma přišlo tak k smíchu, že se zastavily a smály se, až se pod nimi podlamovala kolena. Když se na sebe všichni tři podívali do výkladní skříně u uzenáře, museli se smát ještě víc. Vedle Goujeta, celého v černém, vypadaly obě ženy jako dvě kropenaté slepičky, švadlena v mušelínových šatech s růžovými květy a pradlena v bílém perkálu[5](#footnote-27518-5), modře tečkovaném, s tříčtvrtečními rukávy a malou šedou hedvábnou vázankou kolem krku. Každý se za nimi otáčel, kam jdou, tak veselí a tak svěží, tak nastrojeni ve všední den; vráželi do lidí, jichž bylo v tom teplém červnovém večeru na ulici plno. Ale nebyl čas na žertování.
 
-Šli rovnou ke dveřím každé vinárny, vstrčili hlavu dovnitř a dívali se k nálevnímu pultu. Snad ten vypečený Coupeau nešel pít až někam k Vítěznému oblouku? Prošli celou horní polovinu ulice Poissonnière a probrali všechna známá místa: U Šnytlíku, kde měli vyhlášené švestky v rumu, u staré Baquetové, která prodávala orleánské víno za osm pěťáků, U Motýlka, kam chodili pít páni kočí, hosté nad jiné vybíraví. Ale Coupeau nikde. Když šli nakonec dolů směrem k bulváru kolem Františkovy vinárny na rohu, Gervaisa najednou tiše vykřikla.
+Šli rovnou ke dveřím každé vinárny, vstrčili hlavu dovnitř a dívali se k nálevnímu pultu. Snad ten vypečený Coupeau nešel pít až někam k Vítěznému oblouku? Prošli celou horní polovinu ulice Poissonnière a probrali všechna známá místa: _U Šnytlíku_, kde měli vyhlášené švestky v rumu, u staré Baquetové, která prodávala orleánské víno za osm pěťáků, _U Motýlka_, kam chodili pít páni kočí, hosté nad jiné vybíraví. Ale Coupeau nikde. Když šli nakonec dolů směrem k bulváru kolem Františkovy vinárny na rohu, Gervaisa najednou tiše vykřikla.
 
 „Co se stalo?“ zeptal se Goujet.
 
@@ -256,23 +256,35 @@ Pak se začalo vtipkovat nad dortem. Takový dort prý zmůžou jako nic. Přich
 
 Přestože to byla zlomyslná poznámka, měla velký úspěch. Ducha­plné narážky jen pršely. Klementa při každé lžíci jahod nezapomněla podotknout: „Šup tam žehličkou!“ A paní Putoisová tvrdila, že tvaroh je cítit škrobem. Lorilleuxová zas procedila, že je to opravdu povedené, projíst tak rychle peníze na stole, na kterém se tak těžce vydělaly. Rozpoutala se bouře smíchu a křiku.
 
-Ale najednou se ozval silný hlas a všichni rázem zmlkli. To Boche vstal, začal se švihácký pohupovat v bocích a spustil lechtivou písničku Vulkán lásky aneb Svůdný voják:
+Ale najednou se ozval silný hlas a všichni rázem zmlkli. To Boche vstal, začal se švihácký pohupovat v bocích a spustil lechtivou písničku _Vulkán lásky_ aneb _Svůdný voják_:
+
+  
 
 To jsem já, Blavin, jenž všechny krásky svádí…
 
-Bouře potlesku uvítala první sloku. Ano, ano, zazpívají si! Každý si řekne svou písničku. Bude to velká legrace. A všichni se buďto opřeli lokty o stůl, anebo zády o opěradla židlí, pokyvovali hlavami při pěkných místech a při refrénu připíjeli. Zatracený Boche, ten se v těch rozpustilých písničkách vyzná! Rozesmál by i láhev s vodou, když napodoboval toho pěšáka s roztaženými prsty a čepicí v týle. Hned po Vulkánu lásky spustil Baronku z Kozotřešti, svoje parádní číslo. Když došel k třetí sloce, otočil se na Klementu a zpomaleným hlasem starého chlípníka skoro šeptal:
+  
+
+Bouře potlesku uvítala první sloku. Ano, ano, zazpívají si! Každý si řekne svou písničku. Bude to velká legrace. A všichni se buďto opřeli lokty o stůl, anebo zády o opěradla židlí, pokyvovali hlavami při pěkných místech a při refrénu připíjeli. Zatracený Boche, ten se v těch rozpustilých písničkách vyzná! Rozesmál by i láhev s vodou, když napodoboval toho pěšáka s roztaženými prsty a čepicí v týle. Hned po _Vulkánu lásky_ spustil _Baronku z Kozotřešti_, svoje parádní číslo. Když došel k třetí sloce, otočil se na Klementu a zpomaleným hlasem starého chlípníka skoro šeptal:
+
+  
 
 Paní baronka večírek dává.  
 Čtyři sestry tam její jsou.  
 Tři brunety a jedna plavá,  
 Osm očí, z nichž točí se hlava…
 
+  
+
 Rozjařená společnost spustila refrén s sebou. Mužští dupali do taktu, dámy se chopily nožů a ťukaly do sklenic. Všichni hulákali:
+
+  
 
 Tisíc láter! Kdopak platí  
 víno pro pa… pro pa… pro pa…  
 Tisíc láter! Kdopak platí  
 víno pro pa… pro pa-trolu!
+
+  
 
 Sklo ve výkladní skříni řinčelo a mušelínové záclony poletovaly od mohutného dechu zpěváků. Mezitím se Virgínie už dvakrát vytratila a pokaždé, když se vrátila, se naklonila k Gervaise a šeptala jí něco do ucha. Teď se vrátila potřetí a za všeobecného kraválu jí řekla: „Milá drahá, pořád ještě sedí u Františka a dělá, jako by četl noviny… To má určitě něco nekalého za lubem.“
 
@@ -284,7 +296,9 @@ Mluvila o Lantierovi. To chodila takhle pozorovat jeho. Při každé nové zpr�
 
 Proč sedí ve vinárně, když je klidný? Pane bože, jen aby se nic nestalo!“
 
-Vyděšená Gervaisa ji poprosila, aby o tom nikomu neříkala. Najednou se rozhostilo hluboké ticho. To právě vstala paní Putoisová a začala zpívat Vzhůru, plavci, na piráty! Všichni stolovníci ji mlčky a soustředěně sledovali, dokonce i Poisson položil dýmku na stůl, aby mohl v klidu poslouchat. Stála vzpřímená, malá a rozkacená, s bledým obličejem pod černým čepečkem. Levou pěstí šermovala před sebou a s přesvědčivou hrdostí zaburácela hlasem, který byl silnější než ona sama:
+Vyděšená Gervaisa ji poprosila, aby o tom nikomu neříkala. Najednou se rozhostilo hluboké ticho. To právě vstala paní Putoisová a začala zpívat _Vzhůru, plavci, na piráty!_ Všichni stolovníci ji mlčky a soustředěně sledovali, dokonce i Poisson položil dýmku na stůl, aby mohl v klidu poslouchat. Stála vzpřímená, malá a rozkacená, s bledým obličejem pod černým čepečkem. Levou pěstí šermovala před sebou a s přesvědčivou hrdostí zaburácela hlasem, který byl silnější než ona sama:
+
+  
 
 Pirát smělý za námi pádí  
 jak o závod, vítr v zádi!  
@@ -295,21 +309,31 @@ rumu sdostatek si přejte!
 Vás, piráti, lupičové,  
 čeká lano stožárové!
 
+  
+
 Tohle bylo něco vážnějšího. Však to taky člověku dávalo zatraceně živou představu! Poisson, který cestoval po moři, přikyvoval k jednotlivým podrobnostem. Všichni ostatně cítili, že tahle písnička odpovídá citům paní Putoisové. Coupeau se naklonil a vyprávěl, jak paní Putoisová jednou večer zpohlavkovala v Pouletově ulici čtyři mužské, kteří ji chtěli zneuctít.
 
-Gervaisa zatím za pomoci maminky Coupeauové podávala kávu, třebaže hosté ještě dojídali savojský dort. Ale nenechali ji sednout, všichni křičeli, že je teď řada na ní. Bránila se, v obličeji bledá, a vypadala tak nesvá, že se jí ptali, jestli ji netlačí husa v žaludku. Zanotovala tedy slabým a tichým hlasem: Ach, nechte mě spát! Když došla k refrénu, kde je řeč o touze po spánku plném krásných snů, přivřela trochu oči a zamlžený pohled upřela do tmy na ulici. Hned potom se Poisson toporným pohybem hlavy rázně uklonil dámám a spustil pijáckou píseň Ta francouzská vína. Ale zpíval, jako když tahá kočku za ocas, a jedině poslední slova, vlastenecká, měla úspěch, protože když přišla řeč na tříbarevný prapor, zvedl sklenici vysoko nad hlavu, rozmáchl se a celou si ji vlil do otevřených úst. Pak přišla řada na romance; paní Bochová zpívala barkarolu o Benátkách a o gondoliérech, Lorilleuxová zas bolero o Seville a andaluských krasavicích, a Lorilleux dokonce spustil o vůních Arábie a o láskách tanečnice Fatimy. Kolem umaštěného stolu, ve vzduchu ztěžklém výdechy špatného trávení se rozvíraly nazlátlé obzory, míhaly se šíje bílé jako ze slonoviny, ebenové vlasy, polibky při měsíčku za zvuku kytar a bajadéry, rozsévající kolem sebe déšť perel a drahokamů. Mužští blaženě kouřily dýmky, dámy se usmívaly podvědomou rozkoší a všichni zmírali touhou být tam někde daleko a dýchat ty nádherné vůně. Když potom Klementa s hrdelním tremolem zacukrovala Udělejte hnízdečko, vyvolalo to také velké potěšení, protože to připomínalo venkov, poletující ptáčky, tanec pod zeleným loubím, květiny s medovými kalíšky, zkrátka všechno, co vídali ve Vincenneském lesíku, když se tam v neděli vypravili na pečeného králíka. Ale Virgínie přišla zase s veselou a spustila Moji kořaličku: napodobovala markytánku; jednu ruku si opřela v bok a druhou nalévala do prázdna, obracejíc zápěstí. Všichni se tak rozjařili, že začali prosit maminku Coupeauovou, aby zazpívala Myšku. Stará paní nechtěla a dušovala se, že takovouhle nemravnost ani neumí. Nakonec však přece jen spustila tenkým nakřáplým hláskem a ve vrásčitém obličeji s malýma živýma očkama znázorňovala všelijaké narážky, jak si slečna Lízinka zděšeně tiskne sukně, když vidí myš. Celý stůl se smál, ani ženy nedokázaly zachovat vážnou tvář a blýskaly po sousedech planoucíma očima. Vždyť to nakonec není nic neslušného, v té písničce není ani jediné sprosté slovo. Boche, aby to náležitě znázornil, jezdil rukou uhlířce po lýtkách. Mohlo to skončit všelijak, ale Goujet si na Gervaisin prosebný pohled vyžádal ticho a zaburácel hlubokým basem Abd-el-Kaderovo loučení, čímž si rázem zjednal úctu. Panečku, to je ale hlas! Dunělo to zpod jeho krásného zlatého plnovousu jako z nějaké lesklé polnice. Když zazpíval „Ó ty má ušlechtilá družko!“ – jak v té písni válečník oplakává svou černou klisnu –, všechna srdce se rozbušila a společnost mu tleskala ještě dřív, než byl konec, tak silně křičel.
+Gervaisa zatím za pomoci maminky Coupeauové podávala kávu, třebaže hosté ještě dojídali savojský dort. Ale nenechali ji sednout, všichni křičeli, že je teď řada na ní. Bránila se, v obličeji bledá, a vypadala tak nesvá, že se jí ptali, jestli ji netlačí husa v žaludku. Zanotovala tedy slabým a tichým hlasem: _Ach, nechte mě spát!_ Když došla k refrénu, kde je řeč o touze po spánku plném krásných snů, přivřela trochu oči a zamlžený pohled upřela do tmy na ulici. Hned potom se Poisson toporným pohybem hlavy rázně uklonil dámám a spustil pijáckou píseň _Ta francouzská vína_. Ale zpíval, jako když tahá kočku za ocas, a jedině poslední slova, vlastenecká, měla úspěch, protože když přišla řeč na tříbarevný prapor, zvedl sklenici vysoko nad hlavu, rozmáchl se a celou si ji vlil do otevřených úst. Pak přišla řada na romance; paní Bochová zpívala barkarolu o Benátkách a o gondoliérech, Lorilleuxová zas bolero o Seville a andaluských krasavicích, a Lorilleux dokonce spustil o vůních Arábie a o láskách tanečnice Fatimy. Kolem umaštěného stolu, ve vzduchu ztěžklém výdechy špatného trávení se rozvíraly nazlátlé obzory, míhaly se šíje bílé jako ze slonoviny, ebenové vlasy, polibky při měsíčku za zvuku kytar a bajadéry, rozsévající kolem sebe déšť perel a drahokamů. Mužští blaženě kouřily dýmky, dámy se usmívaly podvědomou rozkoší a všichni zmírali touhou být tam někde daleko a dýchat ty nádherné vůně. Když potom Klementa s hrdelním tremolem zacukrovala _Udělejte hnízdečko_, vyvolalo to také velké potěšení, protože to připomínalo venkov, poletující ptáčky, tanec pod zeleným loubím, květiny s medovými kalíšky, zkrátka všechno, co vídali ve Vincenneském lesíku, když se tam v neděli vypravili na pečeného králíka. Ale Virgínie přišla zase s veselou a spustila _Moji kořaličku_: napodobovala markytánku; jednu ruku si opřela v bok a druhou nalévala do prázdna, obracejíc zápěstí. Všichni se tak rozjařili, že začali prosit maminku Coupeauovou, aby zazpívala _Myšku_. Stará paní nechtěla a dušovala se, že takovouhle nemravnost ani neumí. Nakonec však přece jen spustila tenkým nakřáplým hláskem a ve vrásčitém obličeji s malýma živýma očkama znázorňovala všelijaké narážky, jak si slečna Lízinka zděšeně tiskne sukně, když vidí myš. Celý stůl se smál, ani ženy nedokázaly zachovat vážnou tvář a blýskaly po sousedech planoucíma očima. Vždyť to nakonec není nic neslušného, v té písničce není ani jediné sprosté slovo. Boche, aby to náležitě znázornil, jezdil rukou uhlířce po lýtkách. Mohlo to skončit všelijak, ale Goujet si na Gervaisin prosebný pohled vyžádal ticho a zaburácel hlubokým basem _Abd-el-Kaderovo loučení_, čímž si rázem zjednal úctu. Panečku, to je ale hlas! Dunělo to zpod jeho krásného zlatého plnovousu jako z nějaké lesklé polnice. Když zazpíval „Ó ty má ušlechtilá družko!“ – jak v té písni válečník oplakává svou černou klisnu –, všechna srdce se rozbušila a společnost mu tleskala ještě dřív, než byl konec, tak silně křičel.
 
 „A teď vy, tatíku Bru, teďko vy!“ ozvala se maminka Coupeauová. „Zazpívejte nám taky tu svou. Však ty starý písničky jsou nejhezčí!“
 
-A celá společnost se otočila k starci; přemlouvali ho, pobízeli. Ale ten jen seděl jako zařezaný, tupě na všechny zíral a obracel na ně obličej nehybný jako maska ze staré vydělané kůže. Zeptali se ho, jestli zná písničku Pět samohlásek. Sklonil hlavu; nevzpomíná si prý, všechny písničky ze starých dobrých časů už se mu v hlavě nějak popletly. Ale když už se chystali ho nechat na pokoji, najednou, jako by se rozpomněl, zasípal dutým hrobovým hlasem:
+A celá společnost se otočila k starci; přemlouvali ho, pobízeli. Ale ten jen seděl jako zařezaný, tupě na všechny zíral a obracel na ně obličej nehybný jako maska ze staré vydělané kůže. Zeptali se ho, jestli zná písničku _Pět samohlásek_. Sklonil hlavu; nevzpomíná si prý, všechny písničky ze starých dobrých časů už se mu v hlavě nějak popletly. Ale když už se chystali ho nechat na pokoji, najednou, jako by se rozpomněl, zasípal dutým hrobovým hlasem:
+
+  
 
 Tra la la, tra la la,  
 tra la, tra la, tra la!
 
+  
+
 Obličej mu oživl; ten popěvek v něm zřejmě vyvolal vzpomínku na dávno zapomenuté radosti, vzpomínku, kterou dovedl vychutnat jen on sám, naslouchaje s dětinským okouzlením svému vlastnímu hlasu, čím dál dutějšímu:
+
+  
 
 Tra la la, tra la la,  
 tra la, tra la, tra la la!
+
+  
 
 „Poslyšte, miláčku, už jsem tam byla zas,“ zašeptala Virgínie Gervaise. „Víte, nedalo mi to… Tak Lantier už od Františka zmizel!“
 
@@ -319,21 +343,29 @@ tra la, tra la, tra la la!
 
 Gervaisa, úplně zkoprnělá, se tam kradmo podívala. Na ulici se shromáždil shluk lidí a všichni poslouchali, jak společnost zpívá. Hokynářští příručí, prodavačka drobů a malý hodinář tam stáli v hloučku a tvářili se, jako by byli na divadle. Bylo tam i pár vojáků, měšťáci v šosatých svrchnících a tři asi pětileté nebo šestileté holčičky, které se držely za ruce a nesmírně vážně přihlížely s okouzleným výrazem. A v první řadě opravdu stál Lantier, poslouchal a klidně se díval dovnitř. To je tedy namouduši drzost! Gervaisa cítila, jak jí mráz přeběhl od nohou až k srdci, a neodvažovala se ani pohnout; tatík Bru zpíval dál:
 
+  
+
 Tra la la, tra la la,  
 tra la, tra la, tra la la!
+
+  
 
 „Tak dost, kamaráde! To už doopravdy stačí!“ zarazil ho Coupeau. „Znáte ji celou až do konce? Tak nám ji zazpíváte zas někdy jindy, až budeme v náladě!“
 
 Kolem se ozval smích. Stařec se zarazil, podíval se bezvýraznýma očima kolem dokola a znovu upadl do té své zadumané živočišné tuposti. Káva byla vypita a klempíř si zase řekl o víno. Klementa se právě znovu pustila do jahod. Na chvíli přestali zpívat a řeč se stočila na ženu, kterou ráno našli ve vedlejším domě oběšenou. Teď byla na řadě paní Leratová, ale musela se na to zpívání připravit; namočila cíp ubrousku do skleničky s vodou a přiložila si jej na spánky, protože prý je jí příliš horko. Pak si řekla o trošku likéru, jen tak slzičku, vypila ji a dlouho si utírala rty.
 
-„Tak tedy Opuštěné dítě, ano?“ zašeptala. „Opuštěné dítě…“
+„Tak tedy _Opuštěné dítě_, ano?“ zašeptala. _„Opuštěné dítě…“_
 
 Vstala v celé své výšce, mužsky hranatá, s kostnatým nosem a rameny jako četník, a spustila:
+
+  
 
 Dítě ztracené, matkou odložené,  
 útulek svůj vždy najde v chrámě.  
 Leč přece není zcela opuštěné,  
 Bůh drží nad ním ochranné rámě.
+
+  
 
 Plačtivě protahovala tóny a hlas se jí při některých slovech třásl. Obracela oči v sloup a zvedala je k nebi, zatímco pravou rukou mávala před hrudí a dojatě si ji tiskla na srdce.
 
@@ -349,16 +381,24 @@ A protože už vstával a koktal strašlivé výhrůžky, zaprosila Gervaisa t
 
 Virgínie mu musela vzít z ruky nůž, který popadl na stole. Ale nemohla mu zabránit, aby šel ven za Lantierem. Ostatní stolovníci si při tom vzrůstajícím dojetí ani ničeho nevšimli a plakali čím dál tím víc, zatímco paní Leratová zpívala se srdceryvným výrazem:
 
+  
+
 Sirota nebohá tam leží  
 a její pláč slyší stěží  
 jen lesní stromy velikáni.
+
+  
 
 Poslední verš zanikl v bouři všeobecného vzlykotu. Paní Putoi­sová se zrovna chtěla napít, ale přemohlo ji takové dojetí, že vylila víno na ubrus. Gervaisa zatím seděla strnulá hrůzou, tiskla si zaťatou pěst na ústa, aby nekřičela, a zavírala oči zděšením, protože každou chvíli čekala, že uvidí, jak jeden z těch dvou klesá mrtev uprostřed ulice. Virgínie a paní Bochová také pozorovaly s velkým zájmem ten výstup. Coupeau, jak ho venku udeřil čerstvý vzduch, se málem posadil do stružky, když se chtěl vrhnout na Lantiera. Ten ani nevytáhl ruce z kapes a jen trochu uhnul stranou. Oba si teď nadávali, zvlášť klempíř nemohl přijít druhému na jméno, nadával mu prašivých sviní a říkal, že mu rozpáře břicho. Bylo jen slyšet směsici rozzlobených hlasů a vidět, jak zuřivě rozkládají rukama, div si je nevykloubili, jako by se chtěli fackovat. Gervaisa neměla daleko k mdlobám a zavírala oči, protože už to trvalo příliš dlouho a protože si ustavičně myslela, že si co nevidět ukousnou nos, jak stáli těsně u sebe, tváří v tvář. Potom, když už nic neslyšela, zase otevřela oči a zůstala celá zkoprnělá, když viděla, že spolu docela klidně hovoří.
 
 A znovu se ozval tremolující a plačtivý hlas paní Leratové, která začínala další sloku:
 
+  
+
 Druhý den tam polomrtvou  
 nalezli sirotu nebohou…
+
+  
 
 „Jsou to ale některý ženský potvory!“ prohlásila paní Lorilleuxová za všeobecného souhlasu.
 
@@ -368,7 +408,11 @@ Gervaisa se tázavě podívala na paní Bochovou a na Virgínii. Že by se to n
 
 Paní Leratová končila poslední sloku. Dámy žmoulaly kapesníky a zpívaly s ní:
 
+  
+
 Bůh drží nad ním ochranné rámě.
+
+  
 
 Zpěvačka sklízela vavříny; posadila se a tvářila se vyčerpaně. Požádala, aby jí dali trochu napít, protože prý do téhle písně vkládá vždycky tolik citu, že má strach, aby si nepocuchala nějaký nerv. Celý stůl mezitím vyvaloval oči na Lantiera, který seděl klidně vedle Coupeaua, jedl už poslední zbylý kousek savojského dortu a namáčel si jej do vína. Kromě Virgínie a paní Bochové ho nikdo neznal. Lorilleuxovi sice čenichali nějaké pletichy, ale nevěděli nic určitého, a tak se jen tvářili upjatě. Goujetovi neušlo, jak je Gervaisa rozčilená, a díval se na nově příchozího úkosem. Protože nastalo rozpačité ticho, řekl Coupeau prostě: „To je jeden kamarád.“
 
@@ -384,11 +428,13 @@ Gervaisu znovu bodlo u srdce, když uviděla Štěpána. Hrdlo se jí sevřelo 
 
 Málem už chtěla Štěpána probudit a přinést ho tam v náručí. Ale pak byla zase ráda, že se to všechno takhle klidně urovnalo. Určitě by nebylo slušné kazit tím nakonec večeři. Vrátila se zpátky s konvicí a nalila sklenici kávy Lantierovi, který ostatně jako by si jí vůbec nevšímal.
 
-„Tak, a teď je řada na mně!“ blábolil Coupeau opilým hlasem. „To se ví, nechali si mě nakonec jako nejlepší číslo… Tak já vám teda přednesu Zatracenýho kluka.“
+„Tak, a teď je řada na mně!“ blábolil Coupeau opilým hlasem. „To se ví, nechali si mě nakonec jako nejlepší číslo… Tak já vám teda přednesu _Zatracenýho kluka_.“
 
-„Ano, ano, Zatracenýho kluka!“ vykřikoval celý stůl.
+„Ano, ano, _Zatracenýho kluka_!“ vykřikoval celý stůl.
 
 V krámě bylo zas plno rámusu a na Lantiera se rázem zapomnělo. Dámy si připravily sklenice a nože, aby mohly při refrénu ťukat do taktu. Všichni se smáli už napřed, když viděli klempíře, jak se rozkročil a zatvářil jako pravý syčák. Spustil chraplavým hlasem jako stará ženská:
+
+  
 
 Každý ráno, když já vstávám,  
 žaludek mám jako břečka;  
@@ -399,12 +445,20 @@ když se vrátí, ani muk,
 všechnu kořalku mi šlohne,  
 zatracenej jeden kluk!
 
+  
+
 Dámy ťukaly do skleniček a sborově opakovaly za výbuchu veselí:
+
+  
 
 Zatracenej jeden kluk!  
 Zatracenej jeden kluk!
 
-Teď se k nim připojila už i celá Zlatnická ulice. Celá čtvrť zpívala písničku Zatracený kluk. Malý hodinář naproti, hokynářští příručí, prodavačka drobů i zelinářka, všichni tu písničku znali, vpadli do refrénu a dávali si z legrace pohlavky. Namouduši, celá ulice byla nakonec opilá; jenom ty výpary z hostiny u Coupeauů způsobily, že se všichni na chodníku motali. Ale uvnitř už byli všichni jaksepatří pod obraz, jen co je pravda. Vzrůstalo to pomalu a jistě od první sklenice nemíchaného vína, kterou si dali hned po polévce. A teď dostupovalo vrcholu, všichni hulákali, nacpaní k prasknutí, v nažloutlém světle dvou čadících lamp. Vřava jejich ryčného veselí přehlušila i hrčení posledních opozdilých kočárů. Přiběhli dva strážníci, protože si mysleli, že je tu nějaké srocení; ale když uviděli Poissona, kývli na něho, jako že rozumějí. Pak se zas pomalu vzdalovali bok po boku podél ztemnělých domů. Coupeau zpíval teď sloku:
+  
+
+Teď se k nim připojila už i celá Zlatnická ulice. Celá čtvrť zpívala písničku _Zatracený kluk_. Malý hodinář naproti, hokynářští příručí, prodavačka drobů i zelinářka, všichni tu písničku znali, vpadli do refrénu a dávali si z legrace pohlavky. Namouduši, celá ulice byla nakonec opilá; jenom ty výpary z hostiny u Coupeauů způsobily, že se všichni na chodníku motali. Ale uvnitř už byli všichni jaksepatří pod obraz, jen co je pravda. Vzrůstalo to pomalu a jistě od první sklenice nemíchaného vína, kterou si dali hned po polévce. A teď dostupovalo vrcholu, všichni hulákali, nacpaní k prasknutí, v nažloutlém světle dvou čadících lamp. Vřava jejich ryčného veselí přehlušila i hrčení posledních opozdilých kočárů. Přiběhli dva strážníci, protože si mysleli, že je tu nějaké srocení; ale když uviděli Poissona, kývli na něho, jako že rozumějí. Pak se zas pomalu vzdalovali bok po boku podél ztemnělých domů. Coupeau zpíval teď sloku:
+
+  
 
 V neděli jdeme kvečeru,  
 když už moc slunce nepraží,  
@@ -416,12 +470,14 @@ a spadne rovnou do — zboží.
 Zatracenej vám kluk jeden!  
 Zatracenej vám kluk jeden!
 
+  
+
 Celý dům se otřásal v základech a kravál se rozléhal vlahou a klidnou nocí; řvouni si sami tleskali, protože víc hulákat už nedovedli.
 
 Nikdo z přítomných se pak za živého boha nedokázal přesně rozpomenout, jak se vlastně ta večeře skončila. Věděli jenom, že muselo být hodně pozdě, protože na ulici už nebyla ani noha. Dost možná, že nakonec tancovali kolem stolu a drželi se za ruce. Ale utápělo se to všechno v nažloutlé mlze, v níž poskakovaly červené obličeje s ústy rozšklebenými od ucha k uchu. Jisté je, že si nakonec důkladně přihnuli horkého vína; jenže nevěděli, jestli někdo z rozpustilosti nenasypal do sklenic soli. Děti se zřejmě svlékly a uložily samy. Paní Bochová se druhý den pochlubila, že Bochovi vlepila v koutě dva pohlavky, protože se tam příliš důvěrně bavil s uhlířkou. Ale Boche se na nic nepamatoval a tvrdil, že je to výmysl. Všichni se shodli na tom, že se Klementa nechovala, jak náleží; taková holka se do­opravdy nemá zvát. Nakonec ukazovala úplně všechno a pak se jí udělalo tak špatně, že dočista zničila jednu mušelínovou záclonu. Mužští, ti s tím aspoň chodili na ulici; Lorilleux s Poissonem, když to na ně přišlo, utíkali až k uzenářskému krámu. To se hned na každém pozná, jaké má vychování! Například dámy, paní Putoisová, paní Leratová a Virgínie, odešly prostě do zadního pokoje rozepnout si šněrovačky, když jim bylo moc horko. Virgínie se tam dokonce na chvilku natáhla na posteli, aby se jí neudělalo špatně. A pak se celá společnost nějak jakoby rozplynula, že se navzájem doprovodí, vytratili se jeden po druhém do temných ulic za doznívající vřavy, zuřivé hádky manželů Lorilleuxových a vytrvalého pochmurného „tralala, tralala“ starého Bru. Gervaisa byla přesvědčena, že se Goujet, když odcházel, usedavě rozplakal. Coupeau pořád zpíval a Lantier, ten asi zůstal až do konce, ucítila dokonce jednu chvíli horký dech ve vlasech, ale nemohla by teď říci, byl-li to Lantierův dech, anebo jen teplý noční vánek.
 
 Protože paní Leratová prohlásila, že nepůjde v tuhle hodinu až do Batignolles, vyndali z postele matrace a ustlali jí v koutku v krámě, když trochu odtáhli stůl. Spala tam uprostřed zbytků, spadlých ze stolu. A celou noc, zatímco Coupeauovi jako zabití vyspávali opici, lezla po stole kočka od sousedky, která se sem vloudila otevřeným oknem, chroupala husí kosti a za tichého skřípání ostrých zubů sprovozovala ze světa poslední zbytky hostiny.
 
-[5](#footnote-27518-5-backlink) Hustá, velmi jemná bavlněná tkanina. Pozn. red.
+[5](#footnote-27518-5-backlink) Hustá, velmi jemná bavlněná tkanina. _Pozn. red._
 
-[6](#footnote-27518-6-backlink) Piráti. Pozn. red.
+[6](#footnote-27518-6-backlink) Piráti. _Pozn. red._

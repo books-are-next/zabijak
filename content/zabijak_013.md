@@ -160,12 +160,16 @@ Lantier se vrátil až v jedenáct, informoval se v pohřebním ústavu.
 
 Rozhodli se potichu v přítmí krámu, osvětleného jen štěrbinami v okenicích. Dveře do pokojíku zůstaly dokořán otevřené a tím velkým zejícím otvorem doléhalo do krámu tíživé ticho smrti. Ze dvora se ozýval dětský smích, v bledém zimním slunci se tam malé žabky točily do kolečka. Najednou bylo slyšet Nanu; utekla od Bochových, kam ji poslali. Komandovala děvčata pronikavým hlasem a dupala podpatky o dlažbu; do toho bylo slyšet písničku, jako když štěbetá hejno vrabců:
 
+  
+
 Ten náš malý oslíček  
 má bolavou nožičku,  
 panímáma poslala  
 do města pro mastičku  
 a botičky, tralala,  
 a botičky červený.
+
+  
 
 Gervaisa, když se jí zeptali na mínění, chvíli mlčela a pak řekla: „Nejsme bohatí, to se ví; ale chceme se přece jen zachovat, jak se sluší… I když nám maminka nic nenechala, to přece ještě není důvod, abychom ji zahrabali do země jako psa… Ne, musí mít mši a slušný pohřební vůz taky…“
 
@@ -177,12 +181,16 @@ Ale paní Lorilleuxová rozzuřeně vyletěla: „To teda ne! Já nic nedám! J�
 
 „Však my od vás nic nechceme!“ odsekla jí nakonec Gervaisa. „I kdybych se měla třeba sama prodat, udělám to; aspoň si nebudu muset nikdy nic vyčítat. Živila jsem maminku bez vaší pomoci, a tak ji bez vás taky pochovám… Už jednou jsem vám řekla, co si myslím: seberu i opuštěnou kočku, a tak se o vaši matku postarám taky!“ Nato se paní Lorilleuxová dala do breku a Lantier ji musel zdržovat, aby neodešla. Rozepře byla tak hlučná, že je paní Leratová musela rázně okřiknout, potom zašla potichu vedle do pokojíku a tam se pohoršeně a vylekaně podívala na nebožku, jako by se bála, že se snad stará paní probudila a poslouchá, jak se kvůli ní vedle hádají. Vtom se ze dvora znovu ozval Nanin pronikavý hlásek, překřikující ostatní tančící děvčata:
 
+  
+
 Ten náš malý oslíček  
 má bolavý pupíček,  
 panímáma poslala  
 do města pro flastříček  
 a střevíčky, tralala,  
 a střevíčky červený.
+
+  
 
 „Panebože, ty děti mi lezou na nervy s tím zpíváním!“ řekla Lantierovi Gervaisa, která se celá třásla a neměla daleko do pláče samým rozčilením a zármutkem. „Okřikněte je a odveďte Nanu zpátky k domovnici, i kdybyste jí měl někam nakopat!“
 
@@ -276,7 +284,7 @@ V kostele se to odbylo rychle. Mše se přece jen trochu protáhla, protože kn
 
 „Pánové a dámy,“ řekl klempíř několika přátelům, kteří zůstali stát s rodinou na ulici, „dovolili bychom si vás pozvat na malé pohoštění…“
 
-A vešel jako první do vinárny v Marcadetově ulici, která se jmenovala Restaurace U hřbitova. Gervaisa zůstala na chodníku a zavolala na Goujeta, který se jí právě znovu uklonil a odcházel už pryč. Proč si s nimi nechce vypít skleničku vína? Ale on prý moc spěchá, musí zas do dílny. Chvíli se na sebe beze slova dívali.
+A vešel jako první do vinárny v Marcadetově ulici, která se jmenovala _Restaurace U hřbitova_. Gervaisa zůstala na chodníku a zavolala na Goujeta, který se jí právě znovu uklonil a odcházel už pryč. Proč si s nimi nechce vypít skleničku vína? Ale on prý moc spěchá, musí zas do dílny. Chvíli se na sebe beze slova dívali.
 
 „Prosím vás, nehněvejte se na mě pro těch šedesát franků,“ vypravila ze sebe konečně pradlena. „Byla jsem jako šílená, nevěděla jsem co dělat, a tak jsem si vzpomněla na vás…“
 

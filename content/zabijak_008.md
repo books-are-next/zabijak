@@ -102,7 +102,7 @@ Coupeau v té době dodělával střechu třípatrové novostavby. Toho dne mě
 
 „Hej, Zidore, dej nahřát železa!“
 
-Učedník zastrčil letovací pájky do výhně, která měla v denním světle bledě růžovou barvu. Coupeau držel poslední zinkový plát. Bylo třeba jej položit na kraj střechy vedle okapového žlabu. Tam se střecha prudce svažovala a na konci už zela propast ulice. Klempíř, v plstěných bačkorách, jako doma, šouravě vykročil; pohvizdoval si písničku Jdou ovečky, jdou. Když došel k srázné střeše, svezl se po ní dolů, chytil se kolenem o zdivo komína a zůstal viset napůl do ulice. Jedna noha se mu houpala ve vzduchu, když se nahýbal, aby zavolal na toho rošťáka Zidora, chytil se pro jistotu za roh komína, protože přece jen dole pod ním byl už chodník.
+Učedník zastrčil letovací pájky do výhně, která měla v denním světle bledě růžovou barvu. Coupeau držel poslední zinkový plát. Bylo třeba jej položit na kraj střechy vedle okapového žlabu. Tam se střecha prudce svažovala a na konci už zela propast ulice. Klempíř, v plstěných bačkorách, jako doma, šouravě vykročil; pohvizdoval si písničku _Jdou ovečky, jdou_. Když došel k srázné střeše, svezl se po ní dolů, chytil se kolenem o zdivo komína a zůstal viset napůl do ulice. Jedna noha se mu houpala ve vzduchu, když se nahýbal, aby zavolal na toho rošťáka Zidora, chytil se pro jistotu za roh komína, protože přece jen dole pod ním byl už chodník.
 
 „Tak dělej, ty kluku usmrkaná! Dej sem ty železa a nekoukej pořád, kde co lítá! Myslíš, ty vyžle jedno zatracený, že ti nalítají do huby pečený holubi?“
 
@@ -136,7 +136,7 @@ Zbývalo mu posadit na komín stříšku, taková maličkost, jakou by svedl uč
 
 „Co ta čarodějnice pořád čumí?“ řekla paní Bochová. „Takovej má divnej ksicht!“
 
-Nahoře bylo slyšet Coupeauův zvučný hlas, jak si zpívá: Pojď se mnou, má milá, na jahůdky do lesa. Stál teď skloněný nad ponkem a dovedně stříhal plech. Kružidlem si na něm narýsoval půlkruh a zahnutými nůžkami z něho vystřihoval široký vějíř. Ten pak kladívkem lehounce vyklepal do tvaru špičatého klobouku. Zidor zase foukal měchem do řeřavého uhlí. Slunce zapadalo za domy v záplavě růžové záře, která pozvolna bledla a přecházela do světlefialova. A proti širé obloze se na pozadí průzračného vzduchu v této chvíli večerního klidu odrážely nepřirozeně zvětšené siluety obou dělníků vedle temné čáry pracovního stolu a podivných obrysů měchu.
+Nahoře bylo slyšet Coupeauův zvučný hlas, jak si zpívá: _Pojď se mnou, má milá, na jahůdky do lesa._ Stál teď skloněný nad ponkem a dovedně stříhal plech. Kružidlem si na něm narýsoval půlkruh a zahnutými nůžkami z něho vystřihoval široký vějíř. Ten pak kladívkem lehounce vyklepal do tvaru špičatého klobouku. Zidor zase foukal měchem do řeřavého uhlí. Slunce zapadalo za domy v záplavě růžové záře, která pozvolna bledla a přecházela do světlefialova. A proti širé obloze se na pozadí průzračného vzduchu v této chvíli večerního klidu odrážely nepřirozeně zvětšené siluety obou dělníků vedle temné čáry pracovního stolu a podivných obrysů měchu.
 
 Když byla stříška připravena, křikl Coupeau jako obvykle: „Zidore, železa!“
 
