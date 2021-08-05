@@ -1,14 +1,14 @@
 {
   "author": "Émile Zola",
-  "identifier": "zola-zabijak-fe07ed3",
+  "identifier": "zola-zabijak-58c3503",
   "languagecode": "cs",
   "modified": "2021-08-05T08:23:49.712Z",
   "publisher": "Městská knihovna v Praze",
   "title": "Zabiják",
-  "revision": "fe07ed3",
+  "revision": "58c3503",
   "generatedAt": {
-    "date": "Thu Aug 05 2021 12:05:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1628165122163
+    "date": "Thu Aug 05 2021 12:17:04 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1628165824427
   },
   "documents": [
     {
