@@ -5,96 +5,114 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Émile Zola",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-05T07:31:27.640Z"
+      "modified": "2021-08-05T08:23:49.712Z"
     },
     "chapters": [
       {
-        "title": "",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "zabijak_001.md",
         "xhtml": "zabijak_001.xhtml"
       },
       {
-        "title": "",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "zabijak_002.md",
         "xhtml": "zabijak_002.xhtml"
       },
       {
-        "title": "Zabiják",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "zabijak_003.md",
         "xhtml": "zabijak_003.xhtml"
       },
       {
-        "title": "Znění tohoto textu vychází z díla Zabiják tak, jak bylo vydáno nakladatelstvím Levné knihy KMa v Praze v roce 2002. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "zabijak_004.md",
         "xhtml": "zabijak_004.xhtml"
       },
       {
-        "title": "1",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "zabijak_005.md",
         "xhtml": "zabijak_005.xhtml"
       },
       {
-        "title": "2",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "zabijak_006.md",
         "xhtml": "zabijak_006.xhtml"
       },
       {
-        "title": "3",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "zabijak_007.md",
         "xhtml": "zabijak_007.xhtml"
       },
       {
-        "title": "4",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "zabijak_008.md",
         "xhtml": "zabijak_008.xhtml"
       },
       {
-        "title": "5",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "zabijak_009.md",
         "xhtml": "zabijak_009.xhtml"
       },
       {
-        "title": "6",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "zabijak_010.md",
         "xhtml": "zabijak_010.xhtml"
       },
       {
-        "title": "7",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "zabijak_011.md",
         "xhtml": "zabijak_011.xhtml"
       },
       {
-        "title": "8",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "zabijak_012.md",
         "xhtml": "zabijak_012.xhtml"
       },
       {
-        "title": "9",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "zabijak_013.md",
         "xhtml": "zabijak_013.xhtml"
       },
       {
-        "title": "10",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "zabijak_014.md",
         "xhtml": "zabijak_014.xhtml"
       },
       {
-        "title": "11",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "zabijak_015.md",
         "xhtml": "zabijak_015.xhtml"
       },
       {
-        "title": "12",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "zabijak_016.md",
         "xhtml": "zabijak_016.xhtml"
       },
       {
-        "title": "13",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "zabijak_017.md",
         "xhtml": "zabijak_017.xhtml"
       },
       {
-        "title": "Émile ZolaZabiják",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "zabijak_018.md",
         "xhtml": "zabijak_018.xhtml"
       }
@@ -162,6 +180,10 @@
       "para-style-override-2",
       "para-style-override-3"
     ],
-    "github": null
+    "github": {
+      "user": "books-are-next",
+      "repo": "zabijak"
+    },
+    "generatedAt": 1628151830312
   }
 }

@@ -3,6 +3,7 @@ outputs: meta
 slug: book
 languageCode: en
 chapters: []
+tocBase: null
 static:
   - style
   - scripts
@@ -10,5 +11,4 @@ static:
   - fonts
   - resources
   - favicon.png
-
 ---
