@@ -1,0 +1,383 @@
+{
+  "author": "Émile Zola",
+  "identifier": "zola-zabijak-fe07ed3",
+  "languagecode": "cs",
+  "modified": "2021-08-05T08:23:49.712Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Zabiják",
+  "revision": "fe07ed3",
+  "generatedAt": {
+    "date": "Thu Aug 05 2021 12:05:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1628165122163
+  },
+  "documents": [
+    {
+      "title": "",
+      "file": "colophon.html",
+      "words": 146,
+      "chars": 932,
+      "ideas": 24,
+      "role": "colophon",
+      "order": null,
+      "next": "zabijak_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "title: ''",
+              "id": "title-",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "title: ''",
+              "id": "title--1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "index.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "index",
+      "order": null,
+      "next": "zabijak_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "resources.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": "zabijak_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "zabijak_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "zabijak_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "zabijak_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "zabijak_001.html",
+      "next": "zabijak_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1",
+      "file": "zabijak_005.html",
+      "words": 9680,
+      "chars": 58007,
+      "ideas": 183,
+      "role": "chapter",
+      "order": 2,
+      "prev": "zabijak_002.html",
+      "next": "zabijak_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2",
+      "file": "zabijak_006.html",
+      "words": 9981,
+      "chars": 59669,
+      "ideas": 141,
+      "role": "chapter",
+      "order": 3,
+      "prev": "zabijak_005.html",
+      "next": "zabijak_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3",
+      "file": "zabijak_007.html",
+      "words": 10887,
+      "chars": 66167,
+      "ideas": 144,
+      "role": "chapter",
+      "order": 4,
+      "prev": "zabijak_006.html",
+      "next": "zabijak_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4",
+      "file": "zabijak_008.html",
+      "words": 10308,
+      "chars": 60974,
+      "ideas": 109,
+      "role": "chapter",
+      "order": 5,
+      "prev": "zabijak_007.html",
+      "next": "zabijak_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5",
+      "file": "zabijak_009.html",
+      "words": 11725,
+      "chars": 70834,
+      "ideas": 116,
+      "role": "chapter",
+      "order": 6,
+      "prev": "zabijak_008.html",
+      "next": "zabijak_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6",
+      "file": "zabijak_010.html",
+      "words": 10875,
+      "chars": 65214,
+      "ideas": 150,
+      "role": "chapter",
+      "order": 7,
+      "prev": "zabijak_009.html",
+      "next": "zabijak_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7",
+      "file": "zabijak_011.html",
+      "words": 12381,
+      "chars": 74781,
+      "ideas": 232,
+      "role": "chapter",
+      "order": 8,
+      "prev": "zabijak_010.html",
+      "next": "zabijak_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8",
+      "file": "zabijak_012.html",
+      "words": 13204,
+      "chars": 77764,
+      "ideas": 184,
+      "role": "chapter",
+      "order": 9,
+      "prev": "zabijak_011.html",
+      "next": "zabijak_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "9",
+      "file": "zabijak_013.html",
+      "words": 13582,
+      "chars": 80044,
+      "ideas": 159,
+      "role": "chapter",
+      "order": 10,
+      "prev": "zabijak_012.html",
+      "next": "zabijak_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "9",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "10",
+      "file": "zabijak_014.html",
+      "words": 13429,
+      "chars": 78589,
+      "ideas": 126,
+      "role": "chapter",
+      "order": 11,
+      "prev": "zabijak_013.html",
+      "next": "zabijak_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "10",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "11",
+      "file": "zabijak_015.html",
+      "words": 14309,
+      "chars": 84737,
+      "ideas": 182,
+      "role": "chapter",
+      "order": 12,
+      "prev": "zabijak_014.html",
+      "next": "zabijak_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "11",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "12",
+      "file": "zabijak_016.html",
+      "words": 11381,
+      "chars": 67594,
+      "ideas": 141,
+      "role": "chapter",
+      "order": 13,
+      "prev": "zabijak_015.html",
+      "next": "zabijak_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "12",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "13",
+      "file": "zabijak_017.html",
+      "words": 5702,
+      "chars": 33549,
+      "ideas": 91,
+      "role": "chapter",
+      "order": 14,
+      "prev": "zabijak_016.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "13",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 147590,
+      "chars": 878855,
+      "ideas": 1982
+    },
+    "chapters": {
+      "words": 147444,
+      "chars": 877923,
+      "ideas": 1958
+    }
+  }
+}
