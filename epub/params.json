@@ -25,7 +25,7 @@
       "em": "MLP-titulka-prekladatel\nchar-style-override-2\nMLP-znak-kurziva-11b",
       "strong": "MLP-tiraz-autor-a-nazev",
       "remove": "",
-      "ignore": "Hyperlink \nMLP-citacni-str-rozdeleni\nMLP-licence.+\nMLP-tex.+\nMLP-titulka.+\nMLP-pozn-pod-carou\nNormal\nfootnot.+\npara-style-override-1\npara-style-override-2\nframe-.\nMLP-obrazky\nchar-style-override-4\nchar-style-override-5"
+      "ignore": "Hyperlink \nMLP-citacni-str-rozdeleni\nMLP-licence.+\nMLP-tex.+\nMLP-titulka.+\nMLP-pozn-pod-carou\nNormal\nfootnot.+\npara-style-override-1\npara-style-override-2\nframe-.\nMLP-obrazky\nchar-style-override-4\nchar-style-override-5\nchar-style-override-1\nchar-style-override-3\npara-style-override-3"
     },
     "structure": [
       {
