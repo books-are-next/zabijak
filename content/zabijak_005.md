@@ -362,6 +362,6 @@ Pokoj nahoře byl holý, zalitý sluncem, které sem svítilo ote­vřeným okne
 
 Přehodila prádlo přes opěradlo židle a zůstala stát, rozhlížela se dokola a dívala se po nábytku; byla tak strnulá zděšením, že ani nemohla plakat. Zbýval jí jen poslední ze čtyř pětníků, které měla schované na zaplacení prádelny. Pak najednou uslyšela od okna smích Štěpána a Klaudia, kteří už na slzy zapomněli: popošla k nim, přitiskla si jejich hlavičky k tělu a zůstala tak chvíli stát, bezmyšlenkovitě zívajíc do šedivé ulice, v níž ráno viděla probouzet se dělný lid, obrovskou pracující Paříž. V tuto hodinu se od dlažby, rozpálené denním shonem, odrážely horké paprsky a vytvářely záři nad celým městem až daleko za potravní čáru. Tak na tuto dlažbu, do této rozpálené pece, bude teď vyhozena samotinká s dětmi. Rozhlédla se po okrajovém bulváru, táhnoucím se napravo i nalevo, utkvěla chvíli pohledem na obou jeho koncích, a sevřela ji tichá hrůza, jako by celý další život byl připoután jen na toto místo mezi jatkami a nemocnicí.
 
-[1](#footnote-27518-1-backlink) Hranice tzv. potravní daně, tedy daně z dovozu potravin do velkých měst. Pozn. red.
+[1](#footnote-27518-1-backlink) Hranice tzv. potravní daně, tedy daně z dovozu potravin do velkých měst. _Pozn. red._
 
-[2](#footnote-27518-2-backlink) Stanoviště daňové kontroly, kde se platila daň z dovozu potravin. Pozn. red.
+[2](#footnote-27518-2-backlink) Stanoviště daňové kontroly, kde se platila daň z dovozu potravin. _Pozn. red._
