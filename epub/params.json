@@ -34,7 +34,7 @@
         "id": 0,
         "role": "break",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "children": [],
         "title": "",
         "subtitle": ""
@@ -45,7 +45,7 @@
         "id": 1,
         "role": "break",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "children": [],
         "title": "",
         "subtitle": ""
@@ -56,7 +56,7 @@
         "id": 2,
         "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "children": [],
         "title": "",
         "subtitle": ""
@@ -67,7 +67,7 @@
         "id": 3,
         "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "children": [],
         "title": "",
         "subtitle": ""
@@ -234,7 +234,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Émile Zola",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-05T09:24:06.838Z"
+      "modified": "2021-08-10T12:09:07.091Z"
     },
     "chapters": [
       {
@@ -413,6 +413,6 @@
       "user": "books-are-next",
       "repo": "zabijak"
     },
-    "generatedAt": 1628155447749
+    "generatedAt": 1628597348044
   }
 }
