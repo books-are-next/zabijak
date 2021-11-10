@@ -1,7 +1,7 @@
 /* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-4abbe83';
+const CACHE = 'cache-03aca24';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +39,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./resources.html","./zabijak_001.html","./zabijak_002.html","./zabijak_005.html","./zabijak_006.html","./zabijak_007.html","./zabijak_008.html","./zabijak_009.html","./zabijak_010.html","./zabijak_011.html","./zabijak_012.html","./zabijak_013.html","./zabijak_014.html","./zabijak_016.html","./zabijak_015.html","./zabijak_017.html","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/index.xml","./resources/obalka_zabijak_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./resources.html","./zabijak_001.html","./zabijak_002.html","./zabijak_005.html","./zabijak_006.html","./zabijak_007.html","./zabijak_008.html","./zabijak_009.html","./zabijak_010.html","./zabijak_011.html","./zabijak_012.html","./zabijak_013.html","./zabijak_014.html","./zabijak_015.html","./zabijak_016.html","./zabijak_017.html","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/index.xml","./resources/obalka_zabijak_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css"]));
 }
 
 self.addEventListener('fetch', e => {
