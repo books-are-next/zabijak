@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Zabiják",
@@ -6,7 +7,9 @@
       "author": "Émile Zola",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-08-05T08:23:49.712Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -32,7 +35,7 @@
         "filename": "zabijak_001.md",
         "xhtml": "zabijak_001.xhtml",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -416,3 +419,4 @@
     "generatedAt": 1628597348044
   }
 }
+
