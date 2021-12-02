@@ -9,8 +9,9 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-08-05T08:23:49.712Z'
   languageCode: cs
-chapters:
-  - zabijak_001.html
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
   - zabijak_002.html
   - zabijak_005.html
   - zabijak_006.html
@@ -25,6 +26,7 @@ chapters:
   - zabijak_015.html
   - zabijak_016.html
   - zabijak_017.html
+  - colophon.html
 tocBase:
   - link: zabijak_005.html
     title: '1'
@@ -58,5 +60,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---

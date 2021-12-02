@@ -1,6 +1,8 @@
 ---
-title: ''
+title: Tiráž
 ---
+
+***
 
 Zabiják
 
@@ -9,9 +11,7 @@ Zabiják
 _Přeložil Luděk Kárl_
 
 
----
-title: ''
----
+***
 
 Znění tohoto textu vychází z díla [Zabiják](https://search.mlp.cz/cz/titul/zabijak/2350303/#/) tak, jak bylo vydáno nakladatelstvím Levné knihy KMa v Praze v roce 2002. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -28,9 +28,7 @@ Verze 1.0 z 24. 7. 2020.
 ![image002.jpg](./resources/image002_fmt.jpeg)
 
 
----
-title: ''
----
+***
 
 **Émile Zola  
 Zabiják**

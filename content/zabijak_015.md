@@ -168,7 +168,7 @@ Namouduši, nikdo ještě neviděl, aby se mužský tak topil v slad­kostech j
 
 Lantier byl uprostřed těch ustavičných sladkostí celý naměkko a k Gervaise se choval otcovsky blahosklonně. Udílel jí rady a huboval ji, že už není tak pracovitá jako dřív. Taková ženská v jejím věku se musí panečku umět otáčet! A vyčítal jí, že byla odjakživa příliš mlsná. Ale protože prý se musí lidem vždycky podat pomocná ruka, i když si to třeba nezasluhují, hleděl jí najít sem tam nějakou drobnější práci. A tak přiměl Virgínii, aby si zjednala Gevaisu jednou týdně na drhnutí podlahy v krámě a v pokojích. Ráchat se v louhové vodě, v tom se ona vyzná, a pokaždé si vydělá třicet pěťáků. Gervaisa přicházela každou sobotu ráno se džberem a rejžákem a ani se nezdálo, že by jí připadalo příliš zatěžko chodit na špinavou a ponižující práci s hadrem a utěrákem do bytu, kde kdysi trůnívala jako krásná plavovlasá majitelka. Tohle bylo poslední pokoření, úplný konec její pýchy.
 
-Jednou v sobotu měla pořádnou dřinu. Tři dny pršelo a zákazníci jako by nosili na botách do krámu všechno bláto z celé čtvrti. Virgínie seděla za pultem, načesaná, s krajkovým límečkem a manžetami, a hrála si na dámu. Vedle ní na úzké lavičce z červeného moleskinu[7](#footnote-27518-7) se rozvaloval Lantier jako doma, jako by skutečným pánem krámu byl on, a nedbale sahal rukou do sklenice s větrovými bonbony, jen tak ze zvyku, aby něco sladkého chroustal.
+Jednou v sobotu měla pořádnou dřinu. Tři dny pršelo a zákazníci jako by nosili na botách do krámu všechno bláto z celé čtvrti. Virgínie seděla za pultem, načesaná, s krajkovým límečkem a manžetami, a hrála si na dámu. Vedle ní na úzké lavičce z červeného moleskinu[^7] se rozvaloval Lantier jako doma, jako by skutečným pánem krámu byl on, a nedbale sahal rukou do sklenice s větrovými bonbony, jen tak ze zvyku, aby něco sladkého chroustal.
 
 „Poslouchejte, paní Coupeauová!“ křikla najednou Virgínie, která už ji chvíli povýšeně pozorovala při práci. „Necháváte tamhle v koutě špínu. Vydrhněte to ještě jednou a pořádně!“
 
@@ -338,7 +338,7 @@ Poslední léto, kdy Nana proválela u rodičů zbytky proflámo­vaných nocí
 
 Coupeau znal na všechno jen jediný lék, vrazit do sebe půllitr kořalky, aby ho to vzalo za osrdí a postavilo na nohy. Každé ráno léčil ten svůj zahleněný krk. Paměť už se mu dávno vypařila, v hlavě měl úplně prázdno; a sotva stál na nohou, dělal si ze své nemoci legraci. Nikdy mu přece nic nebylo a není. Ano, byl už v takovém stavu, kdy člověk tvrdí, že se mu daří znamenitě, a přitom už má smrt na jazyku. Ostatně i jinak už to neměl v hlavě v pořádku. Když se Nana po šesti nedělích toulání vrátila domů, myslel, že si jen tak doběhla nakoupit. Často ho potkala, když šla zavěšena do nějakého pána, a vyzývavě se na něho zubila, ale on ji ani nepoznal. Zkrátka, byla pro něho jako vzduch, byla by na něm mohla i dříví štípat.
 
-Když přišly první mrazy, zmizela Nana zas; řekla, že se jde jenom podívat k zelinářce, jestli nemá sušené hrušky. Cítila zimu a nechtělo se jí drkotat zuby u vyhaslých kamen. Coupeauovi nadávali, že je mrcha, ale jen proto, že čekali na ty hrušky. Určitě se vrátí, minulou zimu přece taky takhle odběhla pro tabák za dva pěťáky a vrátila se za tři neděle. Ale měsíce plynuly a holka pořád nikde. Tentokrát asi musela uhánět, jako když jí hoří koudel. Přišel červen a ani sluníčko ji nepřitáhlo domů. Teď už je s ní tedy asi nadobro ámen, asi si někde našla lepší živobytí. Jednou, když měli dales[8](#footnote-27518-8), prodali Coupeauovi Naninu železnou postel za rovných šest franků a probendili je v Saint-Ouenu. Beztak jim ta postel jen překážela.
+Když přišly první mrazy, zmizela Nana zas; řekla, že se jde jenom podívat k zelinářce, jestli nemá sušené hrušky. Cítila zimu a nechtělo se jí drkotat zuby u vyhaslých kamen. Coupeauovi nadávali, že je mrcha, ale jen proto, že čekali na ty hrušky. Určitě se vrátí, minulou zimu přece taky takhle odběhla pro tabák za dva pěťáky a vrátila se za tři neděle. Ale měsíce plynuly a holka pořád nikde. Tentokrát asi musela uhánět, jako když jí hoří koudel. Přišel červen a ani sluníčko ji nepřitáhlo domů. Teď už je s ní tedy asi nadobro ámen, asi si někde našla lepší živobytí. Jednou, když měli dales[^8], prodali Coupeauovi Naninu železnou postel za rovných šest franků a probendili je v Saint-Ouenu. Beztak jim ta postel jen překážela.
 
 Jednou ráno v červenci zavolala Virgínie Gervaisu, která šla zrovna kolem, aby jí přišla umýt nádobí, protože Lantier včera přivedl dva známé na večeři. A když Gervaisa myla nádobí, jaksepatří mastné po kloboučníkově žranici, zavolal najednou Lantier, který v krámě ještě od včerejška zažíval: „Jo, vy nevíte, matko, že jsem se tuhle viděl s Nanou!“
 
@@ -360,6 +360,6 @@ Když se Gervaisa vrátila domů, našla Coupeaua, jak sedí na posteli, přiše
 
 Coupeau pořád civěl na podlahu. Pak zvedl zpustošený obličej, přiblble se zasmál a zablábolil: „Poslouchej, miláčku, vždyť já tě nedržím… Když se umeješ, tak seš eště docela k světu. Víš, jak se říká, žádnej hrnec není tak starej, aby se na něj nenašla poklička… Namouduši, kdyby se tím dalo trochu přivydělat…“
 
-[7](#footnote-27518-7-backlink) Silná, hustá a pevná bavlněná látka. _Pozn. red._
+[^7]: Silná, hustá a pevná bavlněná látka. _Pozn. red._
 
-[8](#footnote-27518-8-backlink) Peněžní tíseň. _Pozn. red._
+[^8]: Peněžní tíseň. _Pozn. red._

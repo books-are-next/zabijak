@@ -100,7 +100,7 @@ Hosté přešlapovali kolem stolu. Všichni už měli hlad, občas nenápadně z
 
 „To nám polévka zatím vystydne,“ poznamenala Lorilleuxová. „Coupeau, ten vždycky na všechno zapomene. Neměla jste ho pouštět z domu.“
 
-Bylo půl sedmé. Všechno se už začínalo připalovat a nakonec bude i husa příliš vysušená. Gervaisa, celá nešťastná, navrhla, aby někoho poslali podívat se po okolních vinárnách, jestli tam snad Coupeau někde není. Když se nabídl Goujet, řekla, že půjde s ním; a Virgínie, která už začínala mít strach, co je s manželem, se k nim přidala také. Všichni tři, bez klobouku, zabírali celý chodník. Kovář, který si na sobě nechal redingot, nabídl levé rámě Gervaise a pravé Virgínii. Prohlásil, že si připadá jako košík se dvěma uchy, a to jim oběma přišlo tak k smíchu, že se zastavily a smály se, až se pod nimi podlamovala kolena. Když se na sebe všichni tři podívali do výkladní skříně u uzenáře, museli se smát ještě víc. Vedle Goujeta, celého v černém, vypadaly obě ženy jako dvě kropenaté slepičky, švadlena v mušelínových šatech s růžovými květy a pradlena v bílém perkálu[5](#footnote-27518-5), modře tečkovaném, s tříčtvrtečními rukávy a malou šedou hedvábnou vázankou kolem krku. Každý se za nimi otáčel, kam jdou, tak veselí a tak svěží, tak nastrojeni ve všední den; vráželi do lidí, jichž bylo v tom teplém červnovém večeru na ulici plno. Ale nebyl čas na žertování.
+Bylo půl sedmé. Všechno se už začínalo připalovat a nakonec bude i husa příliš vysušená. Gervaisa, celá nešťastná, navrhla, aby někoho poslali podívat se po okolních vinárnách, jestli tam snad Coupeau někde není. Když se nabídl Goujet, řekla, že půjde s ním; a Virgínie, která už začínala mít strach, co je s manželem, se k nim přidala také. Všichni tři, bez klobouku, zabírali celý chodník. Kovář, který si na sobě nechal redingot, nabídl levé rámě Gervaise a pravé Virgínii. Prohlásil, že si připadá jako košík se dvěma uchy, a to jim oběma přišlo tak k smíchu, že se zastavily a smály se, až se pod nimi podlamovala kolena. Když se na sebe všichni tři podívali do výkladní skříně u uzenáře, museli se smát ještě víc. Vedle Goujeta, celého v černém, vypadaly obě ženy jako dvě kropenaté slepičky, švadlena v mušelínových šatech s růžovými květy a pradlena v bílém perkálu[^5], modře tečkovaném, s tříčtvrtečními rukávy a malou šedou hedvábnou vázankou kolem krku. Každý se za nimi otáčel, kam jdou, tak veselí a tak svěží, tak nastrojeni ve všední den; vráželi do lidí, jichž bylo v tom teplém červnovém večeru na ulici plno. Ale nebyl čas na žertování.
 
 Šli rovnou ke dveřím každé vinárny, vstrčili hlavu dovnitř a dívali se k nálevnímu pultu. Snad ten vypečený Coupeau nešel pít až někam k Vítěznému oblouku? Prošli celou horní polovinu ulice Poissonnière a probrali všechna známá místa: _U Šnytlíku_, kde měli vyhlášené švestky v rumu, u staré Baquetové, která prodávala orleánské víno za osm pěťáků, _U Motýlka_, kam chodili pít páni kočí, hosté nad jiné vybíraví. Ale Coupeau nikde. Když šli nakonec dolů směrem k bulváru kolem Františkovy vinárny na rohu, Gervaisa najednou tiše vykřikla.
 
@@ -302,7 +302,7 @@ Vyděšená Gervaisa ji poprosila, aby o tom nikomu neříkala. Najednou se roz
 
 Pirát smělý za námi pádí  
 jak o závod, vítr v zádi!  
-Ať se těší, flibustýři[6](#footnote-27518-6)!  
+Ať se těší, flibustýři[^6]!  
 Naše zbraně na ně míří!  
 Ke kanónům, hoši, spějte,  
 rumu sdostatek si přejte!  
@@ -478,6 +478,6 @@ Nikdo z přítomných se pak za živého boha nedokázal přesně rozpomenout, 
 
 Protože paní Leratová prohlásila, že nepůjde v tuhle hodinu až do Batignolles, vyndali z postele matrace a ustlali jí v koutku v krámě, když trochu odtáhli stůl. Spala tam uprostřed zbytků, spadlých ze stolu. A celou noc, zatímco Coupeauovi jako zabití vyspávali opici, lezla po stole kočka od sousedky, která se sem vloudila otevřeným oknem, chroupala husí kosti a za tichého skřípání ostrých zubů sprovozovala ze světa poslední zbytky hostiny.
 
-[5](#footnote-27518-5-backlink) Hustá, velmi jemná bavlněná tkanina. _Pozn. red._
+[^5]: Hustá, velmi jemná bavlněná tkanina. _Pozn. red._
 
-[6](#footnote-27518-6-backlink) Piráti. _Pozn. red._
+[^6]: Piráti. _Pozn. red._
