@@ -1,0 +1,420 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Zabiják",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Émile Zola",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-08-05T08:23:49.712Z",
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
+    },
+    "elements": {
+      "title": "MLP-uroven2-kapitola",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP-verse--I---12-12",
+      "brAfter": "MLP-verse--I---12-12",
+      "blockquote": "",
+      "figure": "",
+      "em": "MLP-titulka-prekladatel\nchar-style-override-2\nMLP-znak-kurziva-11b",
+      "strong": "MLP-tiraz-autor-a-nazev",
+      "remove": "",
+      "ignore": "Hyperlink \nMLP-citacni-str-rozdeleni\nMLP-licence.+\nMLP-tex.+\nMLP-titulka.+\nMLP-pozn-pod-carou\nNormal\nfootnot.+\npara-style-override-1\npara-style-override-2\nframe-.\nMLP-obrazky\nchar-style-override-4\nchar-style-override-5\nchar-style-override-1\nchar-style-override-3\npara-style-override-3"
+    },
+    "structure": [
+      {
+        "filename": "zabijak_001.md",
+        "xhtml": "zabijak_001.xhtml",
+        "id": 0,
+        "role": "cover",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
+      },
+      {
+        "filename": "zabijak_002.md",
+        "xhtml": "zabijak_002.xhtml",
+        "id": 1,
+        "role": "break",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
+      },
+      {
+        "filename": "zabijak_003.md",
+        "xhtml": "zabijak_003.xhtml",
+        "id": 2,
+        "role": "colophon",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
+      },
+      {
+        "filename": "zabijak_004.md",
+        "xhtml": "zabijak_004.xhtml",
+        "id": 3,
+        "role": "colophon",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
+      },
+      {
+        "filename": "zabijak_005.md",
+        "xhtml": "zabijak_005.xhtml",
+        "id": 4,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "1",
+        "subtitle": ""
+      },
+      {
+        "filename": "zabijak_006.md",
+        "xhtml": "zabijak_006.xhtml",
+        "id": 5,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "2",
+        "subtitle": ""
+      },
+      {
+        "filename": "zabijak_007.md",
+        "xhtml": "zabijak_007.xhtml",
+        "id": 6,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "3",
+        "subtitle": ""
+      },
+      {
+        "filename": "zabijak_008.md",
+        "xhtml": "zabijak_008.xhtml",
+        "id": 7,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "4",
+        "subtitle": ""
+      },
+      {
+        "filename": "zabijak_009.md",
+        "xhtml": "zabijak_009.xhtml",
+        "id": 8,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "5",
+        "subtitle": ""
+      },
+      {
+        "filename": "zabijak_010.md",
+        "xhtml": "zabijak_010.xhtml",
+        "id": 9,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "6",
+        "subtitle": ""
+      },
+      {
+        "filename": "zabijak_011.md",
+        "xhtml": "zabijak_011.xhtml",
+        "id": 10,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "7",
+        "subtitle": ""
+      },
+      {
+        "filename": "zabijak_012.md",
+        "xhtml": "zabijak_012.xhtml",
+        "id": 11,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "8",
+        "subtitle": ""
+      },
+      {
+        "filename": "zabijak_013.md",
+        "xhtml": "zabijak_013.xhtml",
+        "id": 12,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "9",
+        "subtitle": ""
+      },
+      {
+        "filename": "zabijak_014.md",
+        "xhtml": "zabijak_014.xhtml",
+        "id": 13,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "10",
+        "subtitle": ""
+      },
+      {
+        "filename": "zabijak_015.md",
+        "xhtml": "zabijak_015.xhtml",
+        "id": 14,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "11",
+        "subtitle": ""
+      },
+      {
+        "filename": "zabijak_016.md",
+        "xhtml": "zabijak_016.xhtml",
+        "id": 15,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "12",
+        "subtitle": ""
+      },
+      {
+        "filename": "zabijak_017.md",
+        "xhtml": "zabijak_017.xhtml",
+        "id": 16,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "13",
+        "subtitle": ""
+      },
+      {
+        "filename": "zabijak_018.md",
+        "xhtml": "zabijak_018.xhtml",
+        "id": 17,
+        "role": "colophon",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "",
+        "subtitle": ""
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Zabiják",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Émile Zola",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-12-02T17:31:36.610Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zabijak_001.md",
+        "xhtml": "zabijak_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zabijak_002.md",
+        "xhtml": "zabijak_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zabijak_003.md",
+        "xhtml": "zabijak_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zabijak_004.md",
+        "xhtml": "zabijak_004.xhtml"
+      },
+      {
+        "titleSuggest": "1",
+        "subtitleSuggest": "",
+        "filename": "zabijak_005.md",
+        "xhtml": "zabijak_005.xhtml"
+      },
+      {
+        "titleSuggest": "2",
+        "subtitleSuggest": "",
+        "filename": "zabijak_006.md",
+        "xhtml": "zabijak_006.xhtml"
+      },
+      {
+        "titleSuggest": "3",
+        "subtitleSuggest": "",
+        "filename": "zabijak_007.md",
+        "xhtml": "zabijak_007.xhtml"
+      },
+      {
+        "titleSuggest": "4",
+        "subtitleSuggest": "",
+        "filename": "zabijak_008.md",
+        "xhtml": "zabijak_008.xhtml"
+      },
+      {
+        "titleSuggest": "5",
+        "subtitleSuggest": "",
+        "filename": "zabijak_009.md",
+        "xhtml": "zabijak_009.xhtml"
+      },
+      {
+        "titleSuggest": "6",
+        "subtitleSuggest": "",
+        "filename": "zabijak_010.md",
+        "xhtml": "zabijak_010.xhtml"
+      },
+      {
+        "titleSuggest": "7",
+        "subtitleSuggest": "",
+        "filename": "zabijak_011.md",
+        "xhtml": "zabijak_011.xhtml"
+      },
+      {
+        "titleSuggest": "8",
+        "subtitleSuggest": "",
+        "filename": "zabijak_012.md",
+        "xhtml": "zabijak_012.xhtml"
+      },
+      {
+        "titleSuggest": "9",
+        "subtitleSuggest": "",
+        "filename": "zabijak_013.md",
+        "xhtml": "zabijak_013.xhtml"
+      },
+      {
+        "titleSuggest": "10",
+        "subtitleSuggest": "",
+        "filename": "zabijak_014.md",
+        "xhtml": "zabijak_014.xhtml"
+      },
+      {
+        "titleSuggest": "11",
+        "subtitleSuggest": "",
+        "filename": "zabijak_015.md",
+        "xhtml": "zabijak_015.xhtml"
+      },
+      {
+        "titleSuggest": "12",
+        "subtitleSuggest": "",
+        "filename": "zabijak_016.md",
+        "xhtml": "zabijak_016.xhtml"
+      },
+      {
+        "titleSuggest": "13",
+        "subtitleSuggest": "",
+        "filename": "zabijak_017.md",
+        "xhtml": "zabijak_017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zabijak_018.md",
+        "xhtml": "zabijak_018.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/zabijak_idstyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_zabijak_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.jpeg"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-pozn-pod-carou",
+      "MLP-text",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-titulka-prekladatel",
+      "MLP-uroven2-kapitola",
+      "MLP-verse--I---12-12",
+      "MLP-znak-kurziva-11b",
+      "Normal",
+      "char-style-override-1",
+      "char-style-override-2",
+      "char-style-override-3",
+      "char-style-override-4",
+      "char-style-override-5",
+      "footnote",
+      "footnote-anchor",
+      "footnote-link",
+      "footnotes",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2",
+      "para-style-override-3"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "zabijak"
+    },
+    "generatedAt": 1638466297648
+  }
+}

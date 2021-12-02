@@ -1,7 +1,8 @@
-/* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-fc630be';
+/* global self, caches, fetch */
+
+const CACHE = 'cache-7ab2df8';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./resources.html","./zabijak_001.html","./zabijak_002.html","./zabijak_006.html","./zabijak_005.html","./zabijak_007.html","./zabijak_008.html","./zabijak_009.html","./zabijak_011.html","./zabijak_010.html","./zabijak_013.html","./zabijak_012.html","./zabijak_014.html","./zabijak_015.html","./zabijak_017.html","./zabijak_016.html","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/index.xml","./resources/obalka_zabijak_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./zabijak_002.html","./zabijak_005.html","./zabijak_006.html","./zabijak_007.html","./zabijak_008.html","./zabijak_009.html","./zabijak_010.html","./zabijak_011.html","./zabijak_012.html","./zabijak_013.html","./zabijak_014.html","./zabijak_015.html","./zabijak_016.html","./zabijak_017.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_zabijak_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
 }
 
 self.addEventListener('fetch', e => {
