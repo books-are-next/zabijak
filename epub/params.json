@@ -46,7 +46,7 @@
         "filename": "zabijak_002.md",
         "xhtml": "zabijak_002.xhtml",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -419,4 +419,3 @@
     "generatedAt": 1628597348044
   }
 }
-
