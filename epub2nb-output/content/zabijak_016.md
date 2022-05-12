@@ -1,5 +1,6 @@
 ---
 title: '12'
+contentType: prose
 ---
 
 Bylo to v sobotu po činži, zřejmě asi tak dvanáctého nebo třináctého ledna, Gervaisa už ani přesně nevěděla. V hlavě se jí všechno motalo, protože už celou věčnost neměla nic teplého v žaludku. Byl to zatraceně pekelný týden, úplný dales, dvě čtyřliberní šišky chleba od úterka jim vydržely do čtvrtka, potom našla den předtím ještě jednu suchou kůrku a od té doby už šestatřicet hodin nic, ani mizerný drobeček, jen tanec před vymetenou špižírnou. Věděla jenom – a to zatraceně cítila v zádech –, že je psí počasí, černá lezavá zima, nebe jako z olova a sníh na spadnutí, ale pořád ne a ne se protrhnout. Když má někdo prázdné břicho a k tomu ještě je mu zima, může si utahovat řemen, jak chce, mnoho si tím neuleví.

@@ -1,5 +1,6 @@
 ---
 title: '7'
+contentType: prose
 ---
 
 Gervaisin svátek připadl na devatenáctého června. V takové sváteční dny se u Coupeauů jedlo jako o svatbě; bývaly to hostiny, od nichž každý vstával jako bečka, s břichem nacpaným na celý týden dopředu. Vymetl se na to kdejaký krejcar. Jak byl v domácnosti nějaký halíř, musel se projíst. Vymýšlely se z kalendáře kdejaké svátky, jen aby byla záminka k žranici. Virgínie to Gervaise náramně schvalovala, jen ať si prý dá do trumpety! Když má člověk takového mužského, že všechno propije, dělá dobře, že nejdřív myslí na žaludek a nenechá všechny peníze zmizet v chlastu. Když už se tak jak tak mají peníze rozkutálet, tak je lepší dát aspoň vydělat řezníkovi než vinárníkovi. A zmlsaná Gervaisa se snadno nechávala uchlácholit takovou výmluvou. Co se dá dělat, za to může jedině Coupeau, že už si nedokáží ušetřit ani zlámanou grešli. Ztloustla ještě víc a kulhala teď silněji, protože noha jako by se zkracovala tou měrou, jak se obalovala sádlem.

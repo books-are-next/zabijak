@@ -1,5 +1,6 @@
 ---
 title: '1'
+contentType: prose
 ---
 
 Gervaisa čekala na Lantiera do dvou hodin do rána. Až nakonec, celá roztřesená, jak stála jen v nočním kabátku v chladném vzduchu u otevřeného okna, padla napříč přes postel a usnula, s tvářemi mokrými od slzí, horečným spánkem. Celý týden už ji posílal s dětmi spát, sotva vyšli z hostince U Dvouhlavého telete, kde každý den večeřeli, a sám se vracel až pozdě v noci; tvrdil, že hledá práci. Dnes večer, když ho vyhlížela, jestli se už nevrací, se jí zdálo, že ho vidí vcházet do tančírny U Velkého balkonu, odkud se z deseti rozzářených oken rozlévala záplava světla na černý asfalt okrajových bulvárů, a hned nato zahlédla mladou Adélku, leštičku stříbra, která večeřívala ve stejném hostinci jako oni, jak jde pár kroků za ním a neví co s rukama, jako by se ho právě pustila, aby je nebylo vidět spolu zavřené v prudkém světle kulatých svítilen nad vchodem.

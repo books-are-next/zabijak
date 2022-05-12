@@ -1,5 +1,6 @@
 ---
 title: '10'
+contentType: prose
 ---
 
 Nový byt Coupeauových byl v šestém poschodí na schodišti „B“. Když se prošlo kolem slečny Remanjouové, zahnulo se chodbou doleva. A pak se muselo zatočit ještě jednou. První dveře byly Bijardových. Skoro naproti, v takové nevětrané díře pod malými schůdky vedoucími na půdu spával starý Bru. O dvoje dveře dál se šlo k Bazougeovi. A hned vedle Bazougea byl byt Coupeauových, pokoj a komůrka do dvora. Pak už tam vzadu v chodbě byly jen dvě rodiny, než se přišlo úplně na konec k Lorilleuxovým.

@@ -1,5 +1,6 @@
 ---
 title: '5'
+contentType: prose
 ---
 
 Zrovna v dubnovém kvartálu se odstěhovali z ulice Poissonnière také Bochovi a vzali si ve velkém činžáku ve Zlatnické ulici domov­nictví. Taková šťastná náhoda! Jednou z největších starostí Gervaisy – která si až dosud v tom svém bytečku v Nové ulici tak klidně žila bez domovnice – bylo, aby se nedostala pod nějakou zlou bábu, která by se s ní hádala kvůli každé kapce rozlité vody a kvůli každému bouchnutí dveřmi večer. Domovnice bývají taková banda! Ale s Bochovými to bude jedna radost. Znají se přece, a tak spolu vždycky vyjdou. Zkrátka bude to jako v rodině.

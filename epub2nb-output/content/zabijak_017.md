@@ -1,5 +1,6 @@
 ---
 title: '13'
+contentType: prose
 ---
 
 Coupeau se tenkrát v noci zřídil, jak zákon káže. Druhý den dostala Gervaisa deset franků od syna Štěpána, který byl strojníkem u dráhy; posílal jí občas pár franků, protože věděl, že doma není dvakrát hej. Uvařila si hovězí polévku a snědla ji sama, protože to hovado Coupeau se ani druhý den nevrátil. Ani v pondělí, ani v úterý. Uplynul celý týden. Sakra, jestli jí ho tak přebrala nějaká ženská, tomu by se dalo říct štěstí! Ale zrovna v neděli přinesli Gervaise tiskopis, který ji napřed polekal, protože vypadal úplně jako přípis od policie. Ale potom se uklidnila, to jí jenom oznamovali, že to její prase zase chcípá u Svaté Anny. V dopise to sice stálo o něco zdvořileji, ale v zásadě to bylo totéž. Ano, Coupeaua jí opravdu přebrala ženská, a ta ženská se jmenuje paní Zubatá, poslední přítelkyně ochlastů.

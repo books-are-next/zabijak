@@ -45,7 +45,7 @@
         "filename": "zabijak_002.md",
         "xhtml": "zabijak_002.xhtml",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -236,7 +236,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Émile Zola",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-02T17:31:36.610Z"
+      "modified": "2020-07-23T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -415,6 +415,6 @@
       "user": "books-are-next",
       "repo": "zabijak"
     },
-    "generatedAt": 1638466297648
+    "generatedAt": 1652351285886
   }
 }

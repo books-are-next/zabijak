@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Zabiják
@@ -12,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - zabijak_002.html
+  - promo.html
   - zabijak_005.html
   - zabijak_006.html
   - zabijak_007.html

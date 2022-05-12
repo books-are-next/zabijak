@@ -1,5 +1,6 @@
 ---
 title: '9'
+contentType: prose
 ---
 
 Oné zimy byla maminka Coupeauová málem zemřela při záchvatu kašle. Rok co rok, vždycky v prosinci, už si mohla být předem jista, že ji záducha uvězní na dvě tři neděle na lůžku. Vždyť už nebyla žádná mladice, na svatého Antoníčka jí mělo být třiasedmdesát. A přitom byla jako pápěra, hned ji všechno porazilo, i když byla tak velká a tlustá. Lékař říkal, že jednou zakašle a bude po ní, dřív než se stačí pomodlit otčenáš.

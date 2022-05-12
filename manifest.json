@@ -1,21 +1,40 @@
 {
-  "author": "Émile Zola",
-  "edition": "beletrie",
-  "identifier": "zola-zabijak-7ab2df8",
-  "languagecode": "cs",
-  "modified": "2021-08-05T08:23:49.712Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Zabiják",
-  "revision": "7ab2df8",
+  "author": "Émile Zola",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "zola-zabijak-7d7d263",
+  "revision": "7d7d263",
+  "readingOrder": [
+    "promo.html",
+    "zabijak_005.html",
+    "zabijak_006.html",
+    "zabijak_007.html",
+    "zabijak_008.html",
+    "zabijak_009.html",
+    "zabijak_010.html",
+    "zabijak_011.html",
+    "zabijak_012.html",
+    "zabijak_013.html",
+    "zabijak_014.html",
+    "zabijak_015.html",
+    "zabijak_016.html",
+    "zabijak_017.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Dec 02 2021 17:32:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638466352920
+    "date": "Thu May 12 2022 10:35:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351730557
   },
   "documents": [
     {
-      "title": "Zabiják",
-      "file": "zabijak_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +42,17 @@
       "order": 0,
       "prev": null,
       "next": "zabijak_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "1 • Zabiják",
+      "title": "1",
       "file": "zabijak_005.html",
       "words": 9680,
       "chars": 58009,
       "ideas": 183,
       "role": "chapter",
       "order": 1,
-      "prev": "zabijak_002.html",
+      "prev": "promo.html",
       "next": "zabijak_006.html",
       "toc": [
         {
@@ -54,7 +65,7 @@
       ]
     },
     {
-      "title": "2 • Zabiják",
+      "title": "2",
       "file": "zabijak_006.html",
       "words": 9981,
       "chars": 59669,
@@ -74,7 +85,7 @@
       ]
     },
     {
-      "title": "3 • Zabiják",
+      "title": "3",
       "file": "zabijak_007.html",
       "words": 10887,
       "chars": 66167,
@@ -94,7 +105,7 @@
       ]
     },
     {
-      "title": "4 • Zabiják",
+      "title": "4",
       "file": "zabijak_008.html",
       "words": 10308,
       "chars": 60974,
@@ -114,7 +125,7 @@
       ]
     },
     {
-      "title": "5 • Zabiják",
+      "title": "5",
       "file": "zabijak_009.html",
       "words": 11725,
       "chars": 70836,
@@ -134,7 +145,7 @@
       ]
     },
     {
-      "title": "6 • Zabiják",
+      "title": "6",
       "file": "zabijak_010.html",
       "words": 10875,
       "chars": 65214,
@@ -154,7 +165,7 @@
       ]
     },
     {
-      "title": "7 • Zabiják",
+      "title": "7",
       "file": "zabijak_011.html",
       "words": 12381,
       "chars": 74783,
@@ -174,7 +185,7 @@
       ]
     },
     {
-      "title": "8 • Zabiják",
+      "title": "8",
       "file": "zabijak_012.html",
       "words": 13204,
       "chars": 77764,
@@ -194,7 +205,7 @@
       ]
     },
     {
-      "title": "9 • Zabiják",
+      "title": "9",
       "file": "zabijak_013.html",
       "words": 13582,
       "chars": 80044,
@@ -214,7 +225,7 @@
       ]
     },
     {
-      "title": "10 • Zabiják",
+      "title": "10",
       "file": "zabijak_014.html",
       "words": 13429,
       "chars": 78589,
@@ -234,7 +245,7 @@
       ]
     },
     {
-      "title": "11 • Zabiják",
+      "title": "11",
       "file": "zabijak_015.html",
       "words": 14309,
       "chars": 84739,
@@ -254,7 +265,7 @@
       ]
     },
     {
-      "title": "12 • Zabiják",
+      "title": "12",
       "file": "zabijak_016.html",
       "words": 11381,
       "chars": 67594,
@@ -274,7 +285,7 @@
       ]
     },
     {
-      "title": "13 • Zabiják",
+      "title": "13",
       "file": "zabijak_017.html",
       "words": 5702,
       "chars": 33549,
@@ -294,11 +305,11 @@
       ]
     },
     {
-      "title": "Tiráž • Zabiják",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 143,
-      "chars": 919,
-      "ideas": 23,
+      "words": 123,
+      "chars": 773,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "zabijak_017.html",
@@ -316,9 +327,9 @@
   ],
   "totals": {
     "all": {
-      "words": 147592,
-      "chars": 878878,
-      "ideas": 1985
+      "words": 147572,
+      "chars": 878732,
+      "ideas": 1979
     },
     "chapters": {
       "words": 147444,
