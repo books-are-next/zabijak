@@ -1,5 +1,6 @@
 ---
 title: '11'
+contentType: prose
 ---
 
 Nana rostla a stávala se z ní pěkná mrška. V patnácti se vytáhla jako telátko, měla teď běloučké masíčko, přitom byla kyprá, a dokonce baculatá, že vypadala jako klubíčko. Ano, patnáct let, to je ten věk, kdy už narostou všechny zuby a kdy se ještě nenosí šněrovačka. Měla opravdu obličejíček jako vykutálená dorota, tváře jako mléko, pleť sametovou jako broskev, legrační nosík, růžovou pusinku, a kukadla jí tak svítila, že mužští dostávali chuť si o ně zapálit dýmku. Spousta bujných vlasů, světlých jako dozrávající obilí, jí poletovala kolem spánků jako zlaté chmýří, hrající někdy do rezava, jako by opravdu měla kolem hlavy sluneční korunu. Pěkná panenka, namouduši, říkali Lorilleuxovi, takový usmrkanec, kterému by se měl ještě utírat nos, ale který už má rozkvetlá ramena, plná a kulatá, vydávající zralé vůně jako u dospělé ženy.

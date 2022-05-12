@@ -1,5 +1,6 @@
 ---
 title: '2'
+contentType: prose
 ---
 
 O tři neděle později jednoho krásného slunečního dne asi o půl dvanácté seděla Gervaisa s klempířem Coupeauem v hospodě starého Colomba a jedli spolu švestky v lihu. Coupeau pokuřoval na chodníku cigaretu, když se vracela z roznášky prádla a přecházela zrovna ulici, a přinutil ji, aby s ním zašla dovnitř. U nohou jí teď vedle zinkového stolu stál velký čtverhranný prádelní košík.

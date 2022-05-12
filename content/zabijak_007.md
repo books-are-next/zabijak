@@ -1,5 +1,6 @@
 ---
 title: '3'
+contentType: prose
 ---
 
 Gervaisa původně chtěla úplně tichou svatbu. K čemu vyhazovat peníze? A pak, bylo jí pořád ještě trochu stydno; měla za to, že je zbytečné vystavovat se s tou svatbou na odiv celé čtvrti. Ale Coupeau si nedal říct. Nemůžou se přece vzít jen tak, beze všeho, a nedat si všichni pohromadě ani pořádně do trumpety. Jemu na celé čtvrti houby záleží. No, tak tedy něco jen úplně jednoduchého, odpoledne se kousek projdou, potom zapadnou do první hospody, spořádají tam králíka a dost. Žádná hudba při zákusku, to se ví, a žádný klarinet, aby si paničky natřásaly sukýnky. Jen si trochu připijou na zdraví a pak půjde každej domů na kutě.

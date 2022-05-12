@@ -1,5 +1,6 @@
 ---
 title: '6'
+contentType: prose
 ---
 
 Jednou na podzim odvedla Gervaisa odpoledne prádlo jedné stálé zákaznici v ulici Portes-Blanches a octla se na dolním konci ulice Poissonnière zrovna ve chvíli, kdy se začínalo šeřit. Ráno zapršelo, vzduch byl velmi vlahý a opocená dlažba vydechovala vlhký pach. Pradlena, obtěžkaná velkým košem, se trochu zadýchala; zvolnila krok, poddala se malátnosti a šla do kopce s jakýmsi mlhavým pocitem smyslné touhy, ještě zesílené tou únavou. Docela ráda by si byla na něčem dobrém smlsla. Pak zvedla oči, uviděla tabulku _Marcadetova ulice_ a najednou ji napadlo, že by mohla zajít do kovárny podívat se za Goujetem. Mnohokrát už ji vybízel, aby tam někdy zaskočila, až se bude chtít podívat, jak se kuje železo. Ostatně před druhými dělníky se bude ptát po Štěpánovi, aby to vypadalo, že sem přišla jen za chlapcem.

@@ -1,5 +1,6 @@
 ---
 title: '4'
+contentType: prose
 ---
 
 Uběhly čtyři roky v krušné práci. Ve čtvrti platili Gervaisa s Coupeauem za spořádanou domácnost, žili v ústraní, neprali se a v neděli chodívali pravidelně na procházku k Saint-Ouenu. Gervaisa pracovala u paní Fauconnierové dvanáct hodin denně, a přitom ještě stačila mít doma čisto jako v klícce a v poledne i večer pro všechny uvařit. Coupeau nechodil do hospody, nosil celou čtrnáctidenní výplatu domů a večer před spaním kouříval v okně dýmku, aby se nadýchal čerstvého vzduchu. Každý je dával za příklad, jací jsou to hodní a řádní lidé. A protože vydělávali dohromady asi devět franků denně, soudilo se, že si ukládají stranou dost slušné peníze.

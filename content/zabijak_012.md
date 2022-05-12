@@ -1,5 +1,6 @@
 ---
 title: '8'
+contentType: prose
 ---
 
 Příští sobotu přišel Couepau na večeři a kolem desáté přivedl domů Lantiera. Dali prý si spolu skopové nožičky u Thomase na Montmartru.
