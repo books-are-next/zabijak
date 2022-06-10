@@ -3,6 +3,8 @@ title: '8'
 contentType: prose
 ---
 
+<section>
+
 Příští sobotu přišel Couepau na večeři a kolem desáté přivedl domů Lantiera. Dali prý si spolu skopové nožičky u Thomase na Montmartru.
 
 „Nesmíš nás hubovat, paničko!“ prohlásil klempíř. „Byli jsme pěkně hodní, jak vidíš… Jo, když jsem s ním, tak o mě nemusíš mít starost! Ten by člověka leda přivedl na dobrou cestu!“
@@ -368,3 +370,5 @@ Vzpírala se, rázně vrtěla hlavou. V tom rozrušení se začala svlékat, ja
 Neříkal už nic, jen se usmíval; a pomalu ji políbil na ucho, tak jak ji kdysi líbával, když ji chtěl rozdráždit a připravit o odpor. Tu najednou ztratila všechnu sílu, cítila jen, jak jí hučí v uších a jak jí celým tělem probíhá příjemné chvění. Přesto ještě udělala krok kupředu. Ale musila couvnout. Nebylo to možné, zmáhal ji takový odpor z toho pronikavého smradu, že by se snad sama v posteli pozvracela. Coupeau se rozvaloval jako někde v prachových peřinách, vyspával opici jako zabitý, rukama ani nohama nepohnul a hubu měl nakřivo. Celá ulice by teď mohla přijít dovnitř a líbat jeho ženu, na něm by se ani chlup nehnul.
 
 „Má, co chtěl!“ zašeptala. „Je to jeho vina, já prostě nemůžu… Ach, bože, bože, on mě vyhání z postele, já už nemám svou postel… Ne, já nemůžu, je to jeho vina.“ Celá se třásla a nevěděla ani, co dělá. A zatímco ji Lantier strkal k sobě do pokoje, objevil se v jedné tabulce zasklených dveří obličej Nany. Právě se probudila a v košili, rozespalá, vyběhla potichu z postele. Podívala se na otce, jak se válí ve své vlastní blivanině, a zůstala stát s obličejem přimáčknutým na sklo, dokud matčina bílá spodnička nezmizela naproti u toho druhého. Tvářila se vážně. V očích zkaženého dítěte, dokořán otevřených, jí svítila smyslná zvědavost.
+
+</section>

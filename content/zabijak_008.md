@@ -3,6 +3,8 @@ title: '4'
 contentType: prose
 ---
 
+<section>
+
 Uběhly čtyři roky v krušné práci. Ve čtvrti platili Gervaisa s Coupeauem za spořádanou domácnost, žili v ústraní, neprali se a v neděli chodívali pravidelně na procházku k Saint-Ouenu. Gervaisa pracovala u paní Fauconnierové dvanáct hodin denně, a přitom ještě stačila mít doma čisto jako v klícce a v poledne i večer pro všechny uvařit. Coupeau nechodil do hospody, nosil celou čtrnáctidenní výplatu domů a večer před spaním kouříval v okně dýmku, aby se nadýchal čerstvého vzduchu. Každý je dával za příklad, jací jsou to hodní a řádní lidé. A protože vydělávali dohromady asi devět franků denně, soudilo se, že si ukládají stranou dost slušné peníze.
 
 Ale první čas se museli sakramentsky ohánět, aby vůbec vystačili. Svatbou si na sebe uvalili dvě stě franků dluhů. A pak se jim ošklivilo bydlet v hotelu Boncoeur; všelijaké to špinavé sousedstvo se jim hnusilo a snili jen o tom, bydlet ve vlastním bytě s vlastním nábytkem a mít doma pořádek. Nesčetněkrát počítali, jakou částku by na to potřebovali, a vycházelo jim přibližně tři sta padesát franků, nechtějí-li hned zpočátku zakopávat jeden o druhého a mají-li mít po ruce nějaký ten hrnec a kuchyňská kamínka, aby si mohli uvařit. Nedoufali, že by si takovou částku mohli našetřit dřív než za dva roky, ale přála jim šťastná náhoda. Jeden starý pán z Plassansu je požádal, aby mu svěřili Klaudia, staršího z chlapců, že ho tam dá na střední školu. Byl to velkodušný rozmar starého podivína, milovníka obrazů, jemuž kdysi učarovaly obrázky, které malý kluk čmárával na papír. Klaudius je už začínal stát hříšné peníze, a když teď měli na starosti jen mladšího Štěpána, ušetřili si těch tři sta padesát franků za sedm a půl měsíce. V den, kdy si koupili nábytek u překupníka v ulici Belhomme, se šli ještě projít, než se vrátí domů, po okrajových bulvárech. Srdce jim překypovalo radostí. Mají teď postel, noční stolek, prádelník s mramorovou deskou, skříň, kulatý stůl s voskovaným plátnem a šest židlí, všechno ze starého mahagonu; kromě toho matrace, ložní prádlo a skoro nové kuchyňské nádobí. Bylo to pro ně, jako kdyby teď doopravdy a vážně vstupovali do života, jako by jim ten vlastní majetek teprve dodával patřičné váhy mezi dobře situovanými lidmi ve čtvrti.
@@ -218,3 +220,5 @@ Oba sklopili hlavy. Rozhostilo se mezi nimi něco velmi něžného, třebaže to
 „Poslouchej, ten kovář na tebe nějak bere!“ smál se Coupeau, když se to všechno dověděl. „Ale já se nebojím, ten je na to moc velký moula… Však my mu to zase vrátíme. Ale namouduši, kdyby takhle padl na nějaké ničemy, jakživ už by ty peníze neviděl!“
 
 Hned druhý den najali Coupeauovi krám. Gervaisa běhala celý den mezi domovem a Zlatnickou ulicí. Když ji sousedé viděli pobíhat tak svižně po čtvrti – byla tak šťastná, že ani nekulhala –, povídali si, že se asi dala operovat.
+
+</section>

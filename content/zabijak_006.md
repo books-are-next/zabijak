@@ -3,6 +3,8 @@ title: '2'
 contentType: prose
 ---
 
+<section>
+
 O tři neděle později jednoho krásného slunečního dne asi o půl dvanácté seděla Gervaisa s klempířem Coupeauem v hospodě starého Colomba a jedli spolu švestky v lihu. Coupeau pokuřoval na chodníku cigaretu, když se vracela z roznášky prádla a přecházela zrovna ulici, a přinutil ji, aby s ním zašla dovnitř. U nohou jí teď vedle zinkového stolu stál velký čtverhranný prádelní košík.
 
 Kořalna starého Colomba stála na rohu Rybářské ulice a Roche­chouartského bulváru. Na vývěsním štítu bylo po celé délce napsáno protáhlými modrými písmeny jediné slovo: Lihoviny. Po obou stranách dveří stál přepůlený soudek a v něm zaprášený oleandr. Po levé straně, když se vešlo, se táhl dlouhatánský nálevní pult s řadami skleniček, nádobou na oplachování a cínovými odlivkami. Jako výzdoba byly kolem dokola celého rozlehlého lokálu rozestavěny veliké světležlutě natřené sudy, lesknoucí se čerstvým lakem; nablýskané obruče a měděné pípy na nich jen svítily. Nad nimi byly stěny zakryté policemi s láhvemi likérů, sklenicemi naloženého ovoce a všelijakými lahvičkami, vyrovnanými v řadě, jejichž živé barvy se odrážely v zrcadle za pultem jako jablkově zelené, nazlátlé nebo světle červené skvrny. Ale největší pozoruhodnost celého podniku stála vzadu za dřevěným pažením na zastřešeném dvorku, totiž destilační přístroj, který zákazníci mohli sledovat v plné práci; varné baňky s dlouhými hrdly, spirálové chladiče, vedoucí někam dolů až pod zem, celá ďábelská kuchyně, před níž tak rádi postávali v zasnění dělníci propadlí opilství.
@@ -282,3 +284,5 @@ Dole na dvoře, zatímco Coupeau zpěvavým hlasem volal na domovníka, aby mu �
 „Dejte pozor!“ křikl Coupeau.
 
 Když vycházeli ven, museli přeskočit velikou louži, vyteklou z barvírny. Toho dne byla kaluž modrá, temně blankytná jako letní nebe, a domovníkova noční lampička se v ní odrážela jako hvězda.
+
+</section>

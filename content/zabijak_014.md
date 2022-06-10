@@ -3,6 +3,8 @@ title: '10'
 contentType: prose
 ---
 
+<section>
+
 Nový byt Coupeauových byl v šestém poschodí na schodišti „B“. Když se prošlo kolem slečny Remanjouové, zahnulo se chodbou doleva. A pak se muselo zatočit ještě jednou. První dveře byly Bijardových. Skoro naproti, v takové nevětrané díře pod malými schůdky vedoucími na půdu spával starý Bru. O dvoje dveře dál se šlo k Bazougeovi. A hned vedle Bazougea byl byt Coupeauových, pokoj a komůrka do dvora. Pak už tam vzadu v chodbě byly jen dvě rodiny, než se přišlo úplně na konec k Lorilleuxovým.
 
 Pokoj a komůrka, nic víc. Tam teď bydleli Coupeauovi namačkaní jako slepice v kurníku. A k tomu ten pokoj byl jako dlaň. Museli tam spát, jíst a vůbec všechno. Do komůrky se sotva vešla Nanina postel. Odstrojovat se musela u rodičů a v noci zůstávaly dveře otevřené, aby se tam nezadusila. Bylo to tak malé, že Gervaisa musela přenechat mnoho věcí Poissonovům, když se stěhovala z krámu, protože sem by se to nevešlo. Postel, stůl, čtyři židle, a pokoj byl plný. Jen s prádelníkem se nedokázala rozloučit, a tak s těžkým srdcem zatarasila skoro půl podlahy tím zpropadeným kusem nábytku, který tu teď sahal do poloviny okna. Jedna polovina se nedala otvírat, v pokoji bylo tma a působilo to velmi smutně. Když se Gervaisa chtěla podívat na dvůr, neměla v okně dost místa pro lokty, protože už byla dost tlustá, a musela se vyklánět šikmo, se zkrouceným krkem, aby vůbec viděla ven.
@@ -252,3 +254,5 @@ Potom se s ní celá místnost začala točit a plynové lampy se míhaly jako
 Nikdy nevěděla, jak se dostala do šestého poschodí. Nahoře, když vešla do chodby, jí přiběhla naproti s otevřenou náručí malá Lalie, která ji slyšela jít po schodech; něžně se usmívala a říkala: „Paní Gervaiso, tatínek není doma, pojďte se podívat, jak mi děti krásně spinkají… Jsou takové roztomilé!“
 
 Ale když uviděla tupý, opilý obličej pradleny, zděšeně ucouvla a začala se celá třást. Znala už moc dobře ten dech, páchnoucí kořalkou, ten bezvýrazný pohled, ta křečovitě stažená ústa. Gervaisa kolem ní beze slova vrávoravě přešla, zatímco holčička, stojíc ve dveřích, ji mlčky sledovala tím svým vážným pohledem černých očí.
+
+</section>

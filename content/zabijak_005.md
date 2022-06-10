@@ -3,6 +3,8 @@ title: '1'
 contentType: prose
 ---
 
+<section>
+
 Gervaisa čekala na Lantiera do dvou hodin do rána. Až nakonec, celá roztřesená, jak stála jen v nočním kabátku v chladném vzduchu u otevřeného okna, padla napříč přes postel a usnula, s tvářemi mokrými od slzí, horečným spánkem. Celý týden už ji posílal s dětmi spát, sotva vyšli z hostince U Dvouhlavého telete, kde každý den večeřeli, a sám se vracel až pozdě v noci; tvrdil, že hledá práci. Dnes večer, když ho vyhlížela, jestli se už nevrací, se jí zdálo, že ho vidí vcházet do tančírny U Velkého balkonu, odkud se z deseti rozzářených oken rozlévala záplava světla na černý asfalt okrajových bulvárů, a hned nato zahlédla mladou Adélku, leštičku stříbra, která večeřívala ve stejném hostinci jako oni, jak jde pár kroků za ním a neví co s rukama, jako by se ho právě pustila, aby je nebylo vidět spolu zavřené v prudkém světle kulatých svítilen nad vchodem.
 
 Když se Gervaisa kolem páté probudila, celá ztuhlá a v kříži jako rozlámaná, dala se nahlas do pláče. Lantier ještě nebyl doma. Tohle se stalo poprvé, že zůstal celou noc pryč. Posadila se na kraji postele pod cárem vybledlé kartounové záclonky, která visela z tyče přivázané provázkem ke stropu. A pomalu se uslzenýma očima rozhlížela po nuzném pokoji, který měli najatý i s nábytkem: stál tam ořechový prádelník, kterému chyběla jedna zásuvka, tři židle vypletené slámou, malý usmolený stolek a na něm otlučená konev na vodu. Pro děti sem přistavili železnou postel, která zatarasovala prádelník a zabírala dvě třetiny celé místnosti. V koutě stál Gervaisin a Lantierův velký kufr, dokořán otevřený a zející prázdnotou, jen na dně se mezi špinavými košilemi a ponožkami válel starý pánský klobouk; na věšácích na zdi a na opěradlech židlí visely zablácené kalhoty a děravá šála, poslední hadry, které už žádný vetešník nechtěl koupit. Uprostřed na krbové římse mezi dvěma zinkovými svícny, každým jiným, ležel balíček světlerůžových lístků ze zastavárny. Byl to nejlepší pokoj z celého hotelu, v prvním patře a s vyhlídkou na bulvár.
@@ -366,3 +368,5 @@ Přehodila prádlo přes opěradlo židle a zůstala stát, rozhlížela se dok
 [^1]: Hranice tzv. potravní daně, tedy daně z dovozu potravin do velkých měst. _Pozn. red._
 
 [^2]: Stanoviště daňové kontroly, kde se platila daň z dovozu potravin. _Pozn. red._
+
+</section>
