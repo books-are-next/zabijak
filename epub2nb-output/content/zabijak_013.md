@@ -3,6 +3,8 @@ title: '9'
 contentType: prose
 ---
 
+<section>
+
 Oné zimy byla maminka Coupeauová málem zemřela při záchvatu kašle. Rok co rok, vždycky v prosinci, už si mohla být předem jista, že ji záducha uvězní na dvě tři neděle na lůžku. Vždyť už nebyla žádná mladice, na svatého Antoníčka jí mělo být třiasedmdesát. A přitom byla jako pápěra, hned ji všechno porazilo, i když byla tak velká a tlustá. Lékař říkal, že jednou zakašle a bude po ní, dřív než se stačí pomodlit otčenáš.
 
 Když maminka Coupeauová stonala, bývala zlá jako ježibaba. Je třeba přiznat, že pokojík, kde spala s Nanou, nebyl ani trochu veselý. Mezi její postelí a postelí pro Nanu bylo místo zrovna pro dvě židle. Tapety visely ze zdí v cárech, starý vybledlý šedivý papír. Kulatým okénkem až u stropu sem padalo kalné a bledé světlo jako někde ve sklepě. V takové komůrce na člověka stáří důkladně doléhá, zvlášť když se mu špatně dýchá. V noci to ještě šlo, když nemohla spát, tak poslouchala, jak Nana oddechuje, a to ji aspoň trochu přivedlo na jiné myšlenky. Ale ve dne, když k ní od rána do večera nikdo nepřišel, plakala a hubovala celé dlouhé hodiny a jen tak pro sebe si ustavičně opakovala, převalujíc hlavu na polštáři: „Panebože, jsem já to nešťastná! Panebože, jsem já to nešťastná! Jako ve vězení mě tu nakonec nechají umřít!“
@@ -161,7 +163,9 @@ Lantier se vrátil až v jedenáct, informoval se v pohřebním ústavu.
 
 Rozhodli se potichu v přítmí krámu, osvětleného jen štěrbinami v okenicích. Dveře do pokojíku zůstaly dokořán otevřené a tím velkým zejícím otvorem doléhalo do krámu tíživé ticho smrti. Ze dvora se ozýval dětský smích, v bledém zimním slunci se tam malé žabky točily do kolečka. Najednou bylo slyšet Nanu; utekla od Bochových, kam ji poslali. Komandovala děvčata pronikavým hlasem a dupala podpatky o dlažbu; do toho bylo slyšet písničku, jako když štěbetá hejno vrabců:
 
-  
+</section>
+
+<section>
 
 Ten náš malý oslíček  
 má bolavou nožičku,  
@@ -170,7 +174,9 @@ do města pro mastičku
 a botičky, tralala,  
 a botičky červený.
 
-  
+</section>
+
+<section>
 
 Gervaisa, když se jí zeptali na mínění, chvíli mlčela a pak řekla: „Nejsme bohatí, to se ví; ale chceme se přece jen zachovat, jak se sluší… I když nám maminka nic nenechala, to přece ještě není důvod, abychom ji zahrabali do země jako psa… Ne, musí mít mši a slušný pohřební vůz taky…“
 
@@ -182,7 +188,9 @@ Ale paní Lorilleuxová rozzuřeně vyletěla: „To teda ne! Já nic nedám! J�
 
 „Však my od vás nic nechceme!“ odsekla jí nakonec Gervaisa. „I kdybych se měla třeba sama prodat, udělám to; aspoň si nebudu muset nikdy nic vyčítat. Živila jsem maminku bez vaší pomoci, a tak ji bez vás taky pochovám… Už jednou jsem vám řekla, co si myslím: seberu i opuštěnou kočku, a tak se o vaši matku postarám taky!“ Nato se paní Lorilleuxová dala do breku a Lantier ji musel zdržovat, aby neodešla. Rozepře byla tak hlučná, že je paní Leratová musela rázně okřiknout, potom zašla potichu vedle do pokojíku a tam se pohoršeně a vylekaně podívala na nebožku, jako by se bála, že se snad stará paní probudila a poslouchá, jak se kvůli ní vedle hádají. Vtom se ze dvora znovu ozval Nanin pronikavý hlásek, překřikující ostatní tančící děvčata:
 
-  
+</section>
+
+<section>
 
 Ten náš malý oslíček  
 má bolavý pupíček,  
@@ -191,7 +199,9 @@ do města pro flastříček
 a střevíčky, tralala,  
 a střevíčky červený.
 
-  
+</section>
+
+<section>
 
 „Panebože, ty děti mi lezou na nervy s tím zpíváním!“ řekla Lantierovi Gervaisa, která se celá třásla a neměla daleko do pláče samým rozčilením a zármutkem. „Okřikněte je a odveďte Nanu zpátky k domovnici, i kdybyste jí měl někam nakopat!“
 
@@ -316,3 +326,5 @@ Všichni čtyři funebráci, kteří už byli na odchodu, se zase vrátili a p�
 Když Gervaisa kvečeru přišla domů, klesla na židli a zůstala tupě sedět. Zdálo se jí, že místnosti jsou najednou obrovské a strašně pusté. Namouduši, ráda se toho všeho zbaví. Ale tam na dně jámy v malé zahrádce na Marcadetově ulici nenechala jen maminku Coupeauovou. Chybělo jí toho teď najednou daleko víc, pochovala tam asi také kus svého vlastního života, a ten svůj krám, a všechnu svou hrdost samostatné živnostnice, a bůhví co všechno ještě; pochovala tam všechny své city. Ano, stěny jsou holé a v jejím srdci je také prázdno, všechno odešlo, všechno se stěhuje, všechno se skácelo do hrobu. Cítila se příliš unavená, později se snad z toho sebere, bude-li to vůbec možné.
 
 Když se Nana v deset hodin svlékala, dala se najednou do pláče a začala dupat. Chtěla spát v posteli babičky Coupeauové. Gervaisa se ji pokoušela postrašit, ale žabka byla rozumem až příliš vyspělá a mrtví v ní budili jen a jen velkou zvědavost. A tak jí nakonec, aby měli pokoj, dovolili lehnout si na babiččino místo. Ta uličnice měla ráda široké postele; vyvalovala se v ní, kutálela sem a tam. A tu noc se moc pěkně vyspala, bylo jí teplicko a péřová matrace ji příjemně lechtala.
+
+</section>

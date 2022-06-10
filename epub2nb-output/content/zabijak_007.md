@@ -3,6 +3,8 @@ title: '3'
 contentType: prose
 ---
 
+<section>
+
 Gervaisa původně chtěla úplně tichou svatbu. K čemu vyhazovat peníze? A pak, bylo jí pořád ještě trochu stydno; měla za to, že je zbytečné vystavovat se s tou svatbou na odiv celé čtvrti. Ale Coupeau si nedal říct. Nemůžou se přece vzít jen tak, beze všeho, a nedat si všichni pohromadě ani pořádně do trumpety. Jemu na celé čtvrti houby záleží. No, tak tedy něco jen úplně jednoduchého, odpoledne se kousek projdou, potom zapadnou do první hospody, spořádají tam králíka a dost. Žádná hudba při zákusku, to se ví, a žádný klarinet, aby si paničky natřásaly sukýnky. Jen si trochu připijou na zdraví a pak půjde každej domů na kutě.
 
 Klempíř žertoval a vtipkoval tak dlouho, až nakonec mladá žena svolila, když se jí zadušoval, že při tom nikdo nebude vyvádět. Bude prý dohlížet na sklenice, aby se nikomu nezamotala hlava. A tak objednal malou večeři po pěti francích u Augusta ve _Stříbrném mlýně_ na bulváru Chapelle. Byla to malá vinárnička, nepříliš drahá, a vzadu za lokálem měla ještě takovou dupárnu, stíněnou ze dvora třemi akáty. V prvním patře tam bude docela pěkné posezení. V příštích deseti dnech sezval hosty u sestry v domě ve Zlatnické ulici: pana Madiniera, slečnu Remanjouovou a paní Gaudronovou s manželem. Nakonec se mu podařilo umluvit Gervaisu, že si mohl pozvat i dva kamarády. Telecí nožičku a Perka. Pravda, Perko si rád přihne, ale je na něj tak legrační pohled, jak je vždycky při chuti, že ho všichni zvou na večeři už jenom proto, aby viděli, jak se bude hospodský tvářit, až mu ten povedený jedlík spořádá na posezení dvanáct liber chleba. Gervaisa zas řekla, že přivede svou zaměstnavatelku, paní Fauconnierovou, a Bochovy, moc hodné lidi. Všeho všady jich bude u stolu patnáct. To je zrovna dost. Když je pohromadě zas moc lidí, tak to obyčejně končívá hádkou.
@@ -288,3 +290,5 @@ Ale Gervaisa se čím dál tím víc krčila v koutku u vrat. Chtělo se jí s
 „Nic vám nepomůže, děvenko, musíme tam všichni… Možná že budete jednou ještě moc ráda, až vás budou odnášet… To já znám ženský, který by za to poděkovaly, kdyby si pro ně našinec přišel.“
 
 A když se Lorilleuxovi konečně odhodlali, že ho odvedou domů, otočil se ještě a na odchodu mezi dvojím škytnutím zablábolil: „Když člověk umře… víte… Když člověk umře, tak aspoň ví, že to má nadlouho.“
+
+</section>

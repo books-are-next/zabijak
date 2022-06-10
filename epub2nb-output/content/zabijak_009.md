@@ -3,6 +3,8 @@ title: '5'
 contentType: prose
 ---
 
+<section>
+
 Zrovna v dubnovém kvartálu se odstěhovali z ulice Poissonnière také Bochovi a vzali si ve velkém činžáku ve Zlatnické ulici domov­nictví. Taková šťastná náhoda! Jednou z největších starostí Gervaisy – která si až dosud v tom svém bytečku v Nové ulici tak klidně žila bez domovnice – bylo, aby se nedostala pod nějakou zlou bábu, která by se s ní hádala kvůli každé kapce rozlité vody a kvůli každému bouchnutí dveřmi večer. Domovnice bývají taková banda! Ale s Bochovými to bude jedna radost. Znají se přece, a tak spolu vždycky vyjdou. Zkrátka bude to jako v rodině.
 
 V den, kdy krám najali a přišli podepsat nájemní smlouvu, cítila Gervaisa ve vysokém průjezdu, jak se jí svírá srdce. Tak tady bude teď bydlet, v tom domě, rozlehlém jako malé město pro sebe, kde se jako nekonečné ulice táhnou a křižují chodby a schodiště. Šedivé fasády s okny plnými hadrů sušících se na slunci, kalně osvětlený dvůr s propadlou dlažbou jako někde na náměstí, pracovní ruch, ozývající se uvnitř za těmi zdmi, to všechno v ní vyvolávalo velké rozčilení; na jedné straně radost, že se jí konečně podařilo uskutečnit dávný sen, a na druhé straně strach, že možná neuspěje a že podlehne v tom nesmírném boji proti hladu, jehož tep tu cítila. Při tom bušení a svištění zámečnických kladiv a truhlářských hoblíků v přízemních dílnách se najednou Gervaise zdálo, že podniká něco příliš odvážného, že se vrhá přímo mezi kola nějakého obrovského stroje v plném chodu. Voda z barvírny, vytékající stružkou v průjezdě, měla toho dne světlounce brčálovou barvu. Gervaisa ji s úsměvem překročila; viděla v té barvě dobré znamení.
@@ -232,3 +234,5 @@ Uplynuly tři roky. Ještě několikrát se pohněvali a znovu usmířili. Gerv
 [^3]: Tuhá, obvykle nebělená bavlněná tkanina s plátnovou vazbou. _Pozn. red._
 
 [^4]: Žehlička na úpravu volánů a vln na látce. _Pozn. red._
+
+</section>

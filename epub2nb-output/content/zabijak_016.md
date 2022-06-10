@@ -3,6 +3,8 @@ title: '12'
 contentType: prose
 ---
 
+<section>
+
 Bylo to v sobotu po činži, zřejmě asi tak dvanáctého nebo třináctého ledna, Gervaisa už ani přesně nevěděla. V hlavě se jí všechno motalo, protože už celou věčnost neměla nic teplého v žaludku. Byl to zatraceně pekelný týden, úplný dales, dvě čtyřliberní šišky chleba od úterka jim vydržely do čtvrtka, potom našla den předtím ještě jednu suchou kůrku a od té doby už šestatřicet hodin nic, ani mizerný drobeček, jen tanec před vymetenou špižírnou. Věděla jenom – a to zatraceně cítila v zádech –, že je psí počasí, černá lezavá zima, nebe jako z olova a sníh na spadnutí, ale pořád ne a ne se protrhnout. Když má někdo prázdné břicho a k tomu ještě je mu zima, může si utahovat řemen, jak chce, mnoho si tím neuleví.
 
 Možná že třeba večer přinese Coupeau peníze. Říká, že pracuje. Všechno je nakonec možné, ne? A Gervaisa, přestože už tolikrát naletěla, nakonec začala na ty peníze spoléhat. Sama už po tolika nepříjemnostech nesehnala po celé čtvrti ani hadřík na vyprání; a přednedávnem ji vyhodila i jedna stará paní, u které ještě posluhovala, protože prý jí chodila na likéry. Dopracovala to tak daleko, že už ji vůbec nikde nechtěli. Bylo jí to nakonec docela vhod, protože už klesla do takového stavu otupělosti, že by radši pošla hlady, než by hnula prstem. Aspoň kdyby ten Coupeau přišel s výplatou, najedli by se něčeho teplého. A protože ještě netlouklo ani poledne, natáhla se zatím na slamníku a čekala, protože vleže není člověku taková zima a necítí tolik hlad.
@@ -282,3 +284,5 @@ Bazouge, vždycky galantní, si pomyslel, že by nebylo vhodné nějak zhurta od
 A významně si přejel prstem po krku. Potom se uchechtl, protože mu to připadlo jako dobrý vtip.
 
 Gervaisa pomalu vstala. Tak ani on pro ni nemůže nic udělat? Vrátila se jako beze smyslů do svého pokoje a vrhla se na hromádku slámy; litovala, že se najedla. Ach, namouduši, ta bída zabíjí příliš pomalu!
+
+</section>

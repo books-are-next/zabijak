@@ -3,6 +3,8 @@ title: '11'
 contentType: prose
 ---
 
+<section>
+
 Nana rostla a stávala se z ní pěkná mrška. V patnácti se vytáhla jako telátko, měla teď běloučké masíčko, přitom byla kyprá, a dokonce baculatá, že vypadala jako klubíčko. Ano, patnáct let, to je ten věk, kdy už narostou všechny zuby a kdy se ještě nenosí šněrovačka. Měla opravdu obličejíček jako vykutálená dorota, tváře jako mléko, pleť sametovou jako broskev, legrační nosík, růžovou pusinku, a kukadla jí tak svítila, že mužští dostávali chuť si o ně zapálit dýmku. Spousta bujných vlasů, světlých jako dozrávající obilí, jí poletovala kolem spánků jako zlaté chmýří, hrající někdy do rezava, jako by opravdu měla kolem hlavy sluneční korunu. Pěkná panenka, namouduši, říkali Lorilleuxovi, takový usmrkanec, kterému by se měl ještě utírat nos, ale který už má rozkvetlá ramena, plná a kulatá, vydávající zralé vůně jako u dospělé ženy.
 
 Teď už si Nana papírové koule do živůtku nestrkala. Narostly jí pěkné kozičky, dvojice zbrusu nových ňadérek bělostných jako hedvábí. Nebylo jí to vůbec nevhod, naopak, byla by jich chtěla mít plnou náruč, toužila po tom, mít prsa jako kojná, tak už bývá mládí chtivé a nerozvážné. Zvlášť vypadala mlsně proto, že měla zlozvyk vystrkovat pořád špičku jazyka mezi bílými zoubky. Zřejmě se jí jednou zdálo, že jí to tak sluší, jak se pořád dívala do zrcadla. A tak celý den od rána do večera vyplazovala jazyk, aby vypadala hezky.
@@ -364,3 +366,5 @@ Coupeau pořád civěl na podlahu. Pak zvedl zpustošený obličej, přiblble se
 [^7]: Silná, hustá a pevná bavlněná látka. _Pozn. red._
 
 [^8]: Peněžní tíseň. _Pozn. red._
+
+</section>

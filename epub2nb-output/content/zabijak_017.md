@@ -3,6 +3,8 @@ title: '13'
 contentType: prose
 ---
 
+<section>
+
 Coupeau se tenkrát v noci zřídil, jak zákon káže. Druhý den dostala Gervaisa deset franků od syna Štěpána, který byl strojníkem u dráhy; posílal jí občas pár franků, protože věděl, že doma není dvakrát hej. Uvařila si hovězí polévku a snědla ji sama, protože to hovado Coupeau se ani druhý den nevrátil. Ani v pondělí, ani v úterý. Uplynul celý týden. Sakra, jestli jí ho tak přebrala nějaká ženská, tomu by se dalo říct štěstí! Ale zrovna v neděli přinesli Gervaise tiskopis, který ji napřed polekal, protože vypadal úplně jako přípis od policie. Ale potom se uklidnila, to jí jenom oznamovali, že to její prase zase chcípá u Svaté Anny. V dopise to sice stálo o něco zdvořileji, ale v zásadě to bylo totéž. Ano, Coupeaua jí opravdu přebrala ženská, a ta ženská se jmenuje paní Zubatá, poslední přítelkyně ochlastů.
 
 Gervaisu to nijak nevyvedlo z míry. Však on cestu domů zná, trefí z nemocnice sám; vykurýrovali ho tam tolikrát, že mu jistě vyvedou zase ten hloupý vtip a postaví ho na nohy. Vždyť se zrovna dnes ráno dověděla, že viděli Coupeaua celý týden zlitého jako žok, jak se potlouká po vinárnách v Belleville s Perkem. Samozřejmě, Perko to všechno platil; ten musel asi důkladně sáhnout své paničce do úspor na to jměníčko, které vydělala, však víte jak. To chlastali věru za čisté peníze, bodejť by jim z toho nebylo zle, co může dobrého vzejít z takového neřádstva! Jen ať z toho ten Coupeau dostane pořádné bolení břicha! A Gervaisa zuřila především proto, že ty dva všiváky sobecké ani nenapadlo přijít ji pozvat taky na skleničku. Viděl to jakživ někdo, flámuje si to od neděle a ani trochu galantnosti k dámě to neprojeví! Když někdo dokáže chlastat sám, tak ať si taky sám chcípne.
@@ -182,3 +184,5 @@ Tak živořila Gervaisa dlouhé měsíce. Upadala ještě níž, nechávala si l
 A starý Bazouge si pro ni přišel s truhlou na chudáky v podpaží. Byl toho dne zas jaksepatří nadraný, ale přitom v dobromyslné náladě a veselý jako rybička. Když poznal, s jakou partají má tu čest, utrousil pár filozofických úvah, zatímco si připravoval nádobíčko: „Inu, každej tam musí… Není zapotřebí se tlačit, je tam dost místa pro všechny… A trouba, kdo pospíchá, protože se tam stejně rychleji nedostane… Já chci jenom každýmu vyhovět. Jedněm se chce, druhým zas ne. Jak se v tom má potom jeden vyznat? Tahleta napřed nechtěla a potom zas najednou chtěla. A tak musela čekat… Ale už je tam, a o co, že se má lepší! Tak se do toho dáme!“
 
 A když vzal Gervaisu do těch svých velkých černých pracek, popadla ho něžnost; neobvykle jemně a opatrně zvedal tu ženskou, která po něm tak dlouho toužila. A když ji s otcovskou péčí ukládal do rakve, zablábolil mezi dvojím zaškytáním: „Víš… poslouchej… to jsem já, veselej Bibi, co mi říkají Utěšitel dam… Vidíš, teď už jsi šťastná. Tak pěkně spinkej, ty moje krasavice.“
+
+</section>
