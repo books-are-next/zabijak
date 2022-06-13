@@ -31,202 +31,208 @@
     },
     "structure": [
       {
-        "filename": "zabijak_001.md",
-        "xhtml": "zabijak_001.xhtml",
-        "id": 0,
-        "role": "cover",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "zabijak_002.md",
-        "xhtml": "zabijak_002.xhtml",
-        "id": 1,
-        "role": "promo",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "zabijak_003.md",
-        "xhtml": "zabijak_003.xhtml",
-        "id": 2,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "zabijak_004.md",
-        "xhtml": "zabijak_004.xhtml",
-        "id": 3,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": [],
-        "title": "",
-        "subtitle": ""
-      },
-      {
-        "filename": "zabijak_005.md",
-        "xhtml": "zabijak_005.xhtml",
-        "id": 4,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "1",
-        "subtitle": ""
-      },
-      {
-        "filename": "zabijak_006.md",
-        "xhtml": "zabijak_006.xhtml",
-        "id": 5,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "2",
-        "subtitle": ""
-      },
-      {
-        "filename": "zabijak_007.md",
-        "xhtml": "zabijak_007.xhtml",
-        "id": 6,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "3",
-        "subtitle": ""
-      },
-      {
-        "filename": "zabijak_008.md",
-        "xhtml": "zabijak_008.xhtml",
-        "id": 7,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "4",
-        "subtitle": ""
-      },
-      {
-        "filename": "zabijak_009.md",
-        "xhtml": "zabijak_009.xhtml",
-        "id": 8,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "5",
-        "subtitle": ""
-      },
-      {
-        "filename": "zabijak_010.md",
-        "xhtml": "zabijak_010.xhtml",
-        "id": 9,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "6",
-        "subtitle": ""
-      },
-      {
-        "filename": "zabijak_011.md",
-        "xhtml": "zabijak_011.xhtml",
-        "id": 10,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "7",
-        "subtitle": ""
-      },
-      {
-        "filename": "zabijak_012.md",
-        "xhtml": "zabijak_012.xhtml",
-        "id": 11,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "8",
-        "subtitle": ""
-      },
-      {
-        "filename": "zabijak_013.md",
-        "xhtml": "zabijak_013.xhtml",
-        "id": 12,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "9",
-        "subtitle": ""
-      },
-      {
-        "filename": "zabijak_014.md",
-        "xhtml": "zabijak_014.xhtml",
-        "id": 13,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "10",
-        "subtitle": ""
-      },
-      {
-        "filename": "zabijak_015.md",
-        "xhtml": "zabijak_015.xhtml",
-        "id": 14,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "11",
-        "subtitle": ""
-      },
-      {
-        "filename": "zabijak_016.md",
-        "xhtml": "zabijak_016.xhtml",
-        "id": 15,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "12",
-        "subtitle": ""
-      },
-      {
-        "filename": "zabijak_017.md",
-        "xhtml": "zabijak_017.xhtml",
-        "id": 16,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "13",
-        "subtitle": ""
-      },
-      {
-        "filename": "zabijak_018.md",
-        "xhtml": "zabijak_018.xhtml",
-        "id": 17,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "",
-        "subtitle": ""
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "zabijak_001.md",
+            "xhtml": "zabijak_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "zabijak_002.md",
+            "xhtml": "zabijak_002.xhtml",
+            "id": 1,
+            "role": "promo",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "zabijak_003.md",
+            "xhtml": "zabijak_003.xhtml",
+            "id": 2,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "zabijak_004.md",
+            "xhtml": "zabijak_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          },
+          {
+            "filename": "zabijak_005.md",
+            "xhtml": "zabijak_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "1",
+            "subtitle": ""
+          },
+          {
+            "filename": "zabijak_006.md",
+            "xhtml": "zabijak_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "2",
+            "subtitle": ""
+          },
+          {
+            "filename": "zabijak_007.md",
+            "xhtml": "zabijak_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "3",
+            "subtitle": ""
+          },
+          {
+            "filename": "zabijak_008.md",
+            "xhtml": "zabijak_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "4",
+            "subtitle": ""
+          },
+          {
+            "filename": "zabijak_009.md",
+            "xhtml": "zabijak_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "5",
+            "subtitle": ""
+          },
+          {
+            "filename": "zabijak_010.md",
+            "xhtml": "zabijak_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "6",
+            "subtitle": ""
+          },
+          {
+            "filename": "zabijak_011.md",
+            "xhtml": "zabijak_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "7",
+            "subtitle": ""
+          },
+          {
+            "filename": "zabijak_012.md",
+            "xhtml": "zabijak_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "8",
+            "subtitle": ""
+          },
+          {
+            "filename": "zabijak_013.md",
+            "xhtml": "zabijak_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "9",
+            "subtitle": ""
+          },
+          {
+            "filename": "zabijak_014.md",
+            "xhtml": "zabijak_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "10",
+            "subtitle": ""
+          },
+          {
+            "filename": "zabijak_015.md",
+            "xhtml": "zabijak_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "11",
+            "subtitle": ""
+          },
+          {
+            "filename": "zabijak_016.md",
+            "xhtml": "zabijak_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "12",
+            "subtitle": ""
+          },
+          {
+            "filename": "zabijak_017.md",
+            "xhtml": "zabijak_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "13",
+            "subtitle": ""
+          },
+          {
+            "filename": "zabijak_018.md",
+            "xhtml": "zabijak_018.xhtml",
+            "id": 17,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "",
+            "subtitle": ""
+          }
+        ]
       }
     ]
   },
@@ -415,6 +421,6 @@
       "user": "books-are-next",
       "repo": "zabijak"
     },
-    "generatedAt": 1654949081594
+    "generatedAt": 1655157018030
   }
 }

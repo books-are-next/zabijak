@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "zola-zabijak-329cc25",
-  "revision": "329cc25",
+  "identifier": "zola-zabijak-020825d",
+  "revision": "020825d",
   "readingOrder": [
     "promo.html",
     "zabijak_005.html",
@@ -28,8 +28,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:14:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949683729
+    "date": "Mon Jun 13 2022 21:59:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157598170
   },
   "documents": [
     {
@@ -307,9 +307,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 85,
-      "chars": 566,
-      "ideas": 7,
+      "words": 118,
+      "chars": 741,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "zabijak_017.html",
@@ -327,9 +327,9 @@
   ],
   "totals": {
     "all": {
-      "words": 147534,
-      "chars": 878525,
-      "ideas": 1969
+      "words": 147567,
+      "chars": 878700,
+      "ideas": 1978
     },
     "chapters": {
       "words": 147444,
