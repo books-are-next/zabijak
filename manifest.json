@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "zola-zabijak-ef8f6b9",
-  "revision": "ef8f6b9",
+  "identifier": "zola-zabijak-c85e8a0",
+  "revision": "c85e8a0",
   "readingOrder": [
     "promo.html",
     "zabijak_005.html",
@@ -28,8 +28,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 06:01:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272863929
+    "date": "Thu Jun 16 2022 07:35:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364937131
   },
   "documents": [
     {

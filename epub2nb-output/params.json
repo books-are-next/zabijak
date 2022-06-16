@@ -8,7 +8,8 @@
       "modified": "2021-08-05T08:23:49.712Z",
       "languageCode": "cs",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -421,6 +422,6 @@
       "user": "books-are-next",
       "repo": "zabijak"
     },
-    "generatedAt": 1655271892483
+    "generatedAt": 1655364404300
   }
 }
