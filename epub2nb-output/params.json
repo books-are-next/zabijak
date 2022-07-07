@@ -61,7 +61,7 @@
             "filename": "zabijak_003.md",
             "xhtml": "zabijak_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": [],
@@ -72,7 +72,7 @@
             "filename": "zabijak_004.md",
             "xhtml": "zabijak_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": [],
@@ -226,7 +226,7 @@
             "filename": "zabijak_018.md",
             "xhtml": "zabijak_018.xhtml",
             "id": 17,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": true,
             "children": [],
@@ -422,6 +422,6 @@
       "user": "books-are-next",
       "repo": "zabijak"
     },
-    "generatedAt": 1655980117887
+    "generatedAt": 1657182700347
   }
 }
