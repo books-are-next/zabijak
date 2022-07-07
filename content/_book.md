@@ -28,7 +28,7 @@ readingOrder:
   - zabijak_015.html
   - zabijak_016.html
   - zabijak_017.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
